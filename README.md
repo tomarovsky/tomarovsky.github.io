@@ -1,9 +1,8 @@
-# Tomarovsky Andrey
+# Andrey Tomarovsky
 
 _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 📧[Email](mailto:etozhetoma@ya.ru) / 💬[Telegram](https://t.me/tomatoma) / 💬[VK](https://vk.com/etozhetoma) / 🐙[GitHub](https://github.com/tomarovsky) / 🧬[Rosalind](http://rosalind.info/users/toma/) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
-
 
 
 ## 👨🏻‍🎓 Education
