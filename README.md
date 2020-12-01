@@ -53,10 +53,10 @@ A project containing conceptual scripts for bioinformatics.
     2. counting missing N values.
     3. the output of the program is a pandas dataframe used for further analysis.
     4. output to a convenient csv file format. And others.
-  - [get_coverage_statistics.py](https://github.com/etozhetoma/Biocrutch/blob/master/scripts/get_coverage_statistics.py). Script for calculating median, average, maximum and minimum coverage.
+  - [coverage_statistics.py](https://github.com/etozhetoma/Biocrutch/blob/master/scripts/genomecov/coverage_statistics.py). Script for calculating median, average, maximum and minimum coverage.
     1. calculate stats for whole genome.
     2. calculate stats for each scaffold.
-    3. calculate stats in 100 kbp and 1 Mbp stacking windows.
+    3. calculate stats stacking windows.
     Header-less tab-separated input file with 3 columns: scaffold_id, position(1-based), coverage.
   <br><br>
 
