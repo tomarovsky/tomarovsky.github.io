@@ -14,6 +14,13 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 ## 🏆 Accomplishments
 
+**ResOps experience on the [Makarich](https://makarich.fbb.msu.ru/)**
+
+The cluster's resources are used for storing and processing high-performance sequencing data both by the staff of the Laboratory of Evolutionary Genomics and by employees, graduate students and students of other divisions of Moscow State University: the Faculty of Bioengineering and Bioinformatics, Research Institute of Physico-Chemical Biology and the Faculty of Biology, as well as colleagues from other academic institutions.
+The cluster is located at the Faculty of Bioengineering and Bioinformatics of the Moscow State University named after M.V. Lomonosov.
+
+**[JetBrains Research](https://research.jetbrains.org/) Scholarship**
+
 ### 🛠 Courses
 
 **[Coursera:](https://www.coursera.org/user/9470ce667a3222f90f4566e23282df3b)**
@@ -48,6 +55,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 A project containing conceptual scripts for bioinformatics.
   - [SRA_toolkit.py](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/SRA_toolkit.py). The program parses the link from the Sequence Read Archive (SRA) and allows you to download reads in the sra format. The program also checks the integrity of the finished reads by parsing the required metrics of the source files.
   - [pseudoautosomal_region.py](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/genomecov/pseudoautosomal_region.py). A script for determining the coordinates of the pseudo-autosomal region on the sex chromosome. The output is a BED file with the coordinates of the pseudoautosomal region.
+  - [RepeatMasking scripts](https://github.com/tomarovsky/Biocrutch/tree/master/scripts/RepeatMasking). Scripts for converting TRF, RepeatMasker and WindowMasker output to GFF format.
   - [ema_bin_to_fastq.py](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/10x/ema_bin_to_fastq.py). Combines Ema output files into reverse, forward and barcode-only file.
   - [quast_core.py](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/quast_core.py). The program is an alternative to the publicly available Quast program. Its main differences are: 
     1. adding only the necessary cutoffs.
