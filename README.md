@@ -14,9 +14,9 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 ## 🏆 Accomplishments
 
-**ResOps experience on computing clusters [MSU FBB](https://makarich.fbb.msu.ru/), [IMCB](https://www.mcb.nsc.ru/) and [ITMO](https://itmo.ru/ru/).**
+ResOps experience on computing clusters [MSU FBB](https://makarich.fbb.msu.ru/), [IMCB](https://www.mcb.nsc.ru/) and [ITMO](https://itmo.ru/ru/).
 
-**[JetBrains Research](https://research.jetbrains.org/) Scholarship**
+[JetBrains Research](https://research.jetbrains.org/) Scholarship.
 
 ### 🛠 Courses
 
