@@ -14,10 +14,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 ## 🏆 Accomplishments
 
-**ResOps experience on the [Makarich](https://makarich.fbb.msu.ru/)**
-
-The cluster's resources are used for storing and processing high-performance sequencing data both by the staff of the Laboratory of Evolutionary Genomics and by employees, graduate students and students of other divisions of Moscow State University: the Faculty of Bioengineering and Bioinformatics, Research Institute of Physico-Chemical Biology and the Faculty of Biology, as well as colleagues from other academic institutions.
-The cluster is located at the Faculty of Bioengineering and Bioinformatics of the Moscow State University named after M.V. Lomonosov.
+**ResOps experience on computing clusters [MSU FBB](https://makarich.fbb.msu.ru/), [IMCB](https://www.mcb.nsc.ru/) and [ITMO](https://itmo.ru/ru/).**
 
 **[JetBrains Research](https://research.jetbrains.org/) Scholarship**
 
