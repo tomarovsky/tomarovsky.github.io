@@ -62,7 +62,7 @@ A project containing conceptual scripts for bioinformatics.
     1. calculate stats for whole genome.
     2. calculate stats for each scaffold.
     3. calculate stats stacking windows.
-    Header-less tab-separated input file with 3 columns: scaffold_id, position(1-based), coverage.
+    Header-less tab-separated input file with 3 columns: scaffold_id, position(1-based), coverage. Script works with the output of Bedtools Genomecov and Mosdepth programs. 
   <br><br>
 
 ## 📝 Articles
