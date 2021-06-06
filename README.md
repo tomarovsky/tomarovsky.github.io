@@ -10,7 +10,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 [Belgorod State National Research University](https://www.bsu.edu.ru/bsu/) - Belgorod, Russia _(2015 - 2019)_
 
 **Master's degree** in Bioinformatics<br>
-[St. Petersburg State University](https://spbu.ru/) - St. Petersburg, Russia _(2019 - Present)_
+[St. Petersburg State University](https://spbu.ru/) - St. Petersburg, Russia _(2019 - 2021)_
 
 ## 🏆 Accomplishments
 
