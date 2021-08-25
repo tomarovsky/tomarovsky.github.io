@@ -2,7 +2,7 @@
 
 _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
-📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/tomatoma) / 💬[VK](https://vk.com/etozhetoma) / 🧬[Rosalind](http://rosalind.info/users/toma/) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
+📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/tomatoma) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 🧬[Rosalind](http://rosalind.info/users/toma/) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
 
 ## 👨🏻‍🎓 Education
 
@@ -12,10 +12,13 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 **Master's degree** in Bioinformatics<br>
 [St. Petersburg State University](https://spbu.ru/) - St. Petersburg, Russia _(2019 - 2021)_
 
+**Ph.D.** in Biology<br>
+[Novosibirsk State University](https://www.nsu.ru/n/) - Novosibirsk, Russia _(2021 - now)_
+
 ## 🏆 Accomplishments
 
 ResOps experience on computing clusters [MSU FBB](https://makarich.fbb.msu.ru/), [IMCB](https://www.mcb.nsc.ru/) and [ITMO](https://itmo.ru/ru/).
-[JetBrains Research](https://research.jetbrains.org/) Scholarship.
+[JetBrains Research](https://research.jetbrains.org/) Scholarship (2020).
 
 ### 🛠 Courses
 
@@ -67,19 +70,25 @@ A project containing conceptual scripts for bioinformatics.
 
 ## 📝 Articles
 
+  - Chromosome-Level Genome Assemblies Expand Capabilities of Genomics for Conservation Biology, Azamat Totikov, Andrey Tomarovsky, Dmitrii Prokopov, Alya Yakupova, Tatiana Bulyonkova, Lorena Derezanin, Dmitry Rasskazov, Walter W. Wolfsberger, Klaus-Peter Koepfli, Taras K. Oleksyk and Sergei Kliver, MDPI Genes, 2021.
+  - Totikov, A.; Tomarovsky, A.; Derezanin, L.; Dudchenko, O.; Lieberman-Aiden, E.; Koepfli, K.; Kliver, S. Chromosome-Level Genome Assemblies: Expanded Capabilities for Conservation Biology Research. Proceedings 2021, 76, 10. doi: 10.3390/IECGE-07149
+  - Tomarovsky, A.; Azamat A. Totikov; Violetta R. Beklemisheva; Polina L. Perelman; Natalia A. Serdyokova; Tatiana Bulyonkova; Ksenia A. Koniaeva; Alexei V. Abramov; Alexander S. Graphodatsky; Klaus-Peter Koepfli; Roger A. Powell; Sergei F. Kliver, Assembly and annotation of sable (Martes zibellina) and pine marten (Martes martes) genomes, Moscow Conference on Computational Molecular Biology (MCCMB), July 30th — August 2nd, 2021.
+  - Azamat A. Totikov; Andrey A. Tomarovsky; Polina Perelman; Natalia Serdyokova; Violetta R. Beklemisheva; Tatiana M. Bulyonkova; Inês Miranda; Liliana Farelo; Karol Zub; Viktor V. Panov; Anna S. Mukhacheva; Alexei V. Abramov; Klaus-Peter Koepfli; Alexander S. Graphodatsky; Jose Melo-Ferreira; Sergei F. Kliver, Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis, Moscow Conference on Computational Molecular Biology (MCCMB), July 30th — August 2nd, 2021.
   - Totikov, A., Tomarovsky, A., Derezanin, L., Dudchenko, O., Lieberman-Aiden, E., Koepfli, K., & Kliver, S. (2020, November). Chromosome-Level Genome Assemblies Expanded Capabilities of Conservation Biology. In Presented at the 1st International Electronic Conference on Genes: Theoretical and Applied Genomics (Vol. 2, p. 30).
-  - Тотиков А.А., Томаровский А.А., Анализ кластеров генов биосинтеза метаболитов в бактериальных геномах. Сборник тезисов 24-й Международной Пущинской школы-конференции молодых ученых "Биология – наука XXI века", г. Пущино; 04/2020.
-  - Tomarovsky A.A., Ryadinskaya O.P., Toward an ecological classification of soil bacteria. We make the future: Collected papers of students / Editor-in-Chief: I.V. Borisovskaya, E.N. Taranova. – V. 1. – Belgorod, 2018. – 204 р.
+  - Тотиков А.А., Томаровский А.А., Анализ кластеров генов биосинтеза метаболитов в бактериальных геномах. 24-я Международная Пущинская школаконференция молодых ученых. 2020, Пущино. Сборник тезисов, 2020. – 446 с. ISBN 978-5-91874-901-2.
   - Томаровский А.А., Лихидченко В.И., Поливанова Е.Ю., Серикова Н.В., Анализ и сравнение результатов после применения фермента Alphalase AFP на клетки Corynebacterium glutamicum. CXIX Международная научнопрактическая конференция «Молодой исследователь: вызовы и перспективы», 05/2019.
   - Томаровский А.А., Лихидченко В.И., Поливанова Е.Ю., Серикова Н.В., Действие фермента Proteinase T на клетки производственного штамма Corynebacterium glutamicum. XIX Всероссийская конференция молодых ученых «Биотехнология в растениеводстве, животноводстве и сельскохозяйственной микробиологии» Сборник тезисов докладов, г. Москва, 04/2019;
   - Лихидченко В.И., Томаровский А.А., Поливанова Е.Ю., Серикова Н.В., Влияние метабисульфита натрия (223) на сохранность лизина в процессе хранения. XIX Всероссийская конференция молодых ученых «Биотехнология в растениеводстве, животноводстве и сельскохозяйственной микробиологии» Сборник тезисов докладов, г. Москва, 04/2019;
+  - Tomarovsky A.A., Ryadinskaya O.P., Toward an ecological classification of soil bacteria. We make the future: Collected papers of students / Editor-in-Chief: I.V. Borisovskaya, E.N. Taranova. – V. 1. – Belgorod, 2018. – 204 р.
 
 ## 👨🏻‍💼 Conferences
 
-  - Общеуниверситетская конференция по итогам научно-исследовательской работы студентов, аспирантов и молодых ученых в рамках Недели науки НИУ «БелГУ», заседание тематической секции «Материалы и технологии XXI века», 18.04.2018
-  - XIX Всероссийская конференция молодых ученых «Биотехнология в растениеводстве, животноводстве и сельскохозяйственной микробиологии», г. Москва, 15.05.2019 – 16.05.2019
+  - Moscow Conference on Computational Molecular Biology (MCCMB), July 30th — August 2nd, 2021.
+  - 1st International Electronic Conference an Genes: Theoretical and Applied Genomes session Applications of Genomic Technology 02 November 2020 by MDPI.
+  - 24-я Международная Пущинская школа-конференция молодых ученых «Биология – наука XXI века», г. Пущино, 20-24 апреля 2020 года.
   - CXIX Международная научно-практическая конференция «Молодой исследователь: вызовы и перспективы», 27.05.2019 года
-  - 24-я Международная Пущинская школа-конференция молодых ученых «Биология – наука XXI века», г. Пущино, 20-24 апреля. (Конференция перенесена)
+  - XIX Всероссийская конференция молодых ученых «Биотехнология в растениеводстве, животноводстве и сельскохозяйственной микробиологии», г. Москва, 15.05.2019 – 16.05.2019
+  - Общеуниверситетская конференция по итогам научно-исследовательской работы студентов, аспирантов и молодых ученых в рамках Недели науки НИУ «БелГУ», заседание тематической секции «Материалы и технологии XXI века», 18.04.2018
 
 ## 💬 Languages
 
