@@ -55,7 +55,7 @@ My project contains conceptual scripts for bioinformatics.
   - [SRAtoolkit](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/SRA_toolkit.py). The program parses the link from the Sequence Read Archive (SRA) and allows you to download reads in the sra format. The program also checks the integrity of the finished reads by parsing the required metrics of the source files.
   - [Pseudoautosomal region](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/genomecov/pseudoautosomal_region.py). A script for determining the coordinates of the pseudo-autosomal region on the sex chromosome. The output is a BED file with the coordinates of the pseudoautosomal region.
   - [RepeatMasking scripts](https://github.com/tomarovsky/Biocrutch/tree/master/scripts/RepeatMasking). Scripts for converting TRF, RepeatMasker and WindowMasker output to GFF format.
-  - [EMA binfiles to FASTQ](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/10x/ema_bin_to_fastq.py). Combines Ema output files into reverse, forward and barcode-only file.
+  - [EMA to FASTQ](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/10x/ema_bin_to_fastq.py). Combines Ema output BINfiles into reverse FASTQ, forward FASTQ and barcode-only files.
   - [QuastCore](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/quast_core.py). The program is an alternative to the publicly available Quast program. Its main differences are: 
     1. adding only the necessary cutoffs.
     2. counting missing N values.
