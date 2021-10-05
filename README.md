@@ -76,6 +76,7 @@ Technical support for Blastim courses:
 
 ## 📝 Articles
 
+  - Derežanin L, Blažytė A, Dobrynin P, Duchêne DA, Grau JH, Jeon S, Kliver S, Koepfli KP, Meneghini D, Preick M, Tomarovsky A. Genome assembly of the tayra (Eira barbara, Mustelidae) and comparative genomic analysis reveal adaptive genetic variation in the subfamily Guloninae. bioRxiv. 2021 Jan 1.
   - Totikov, Azamat, Andrey Tomarovsky, Dmitry Prokopov, Aliya Yakupova, Tatiana Bulyonkova, Lorena Derezanin, Dmitry Rasskazov, и др. «Chromosome-Level Genome Assemblies Expand Capabilities of Genomics for Conservation Biology». Genes 12, вып. 9 (сентябрь 2021 г.): 1336. https://doi.org/10.3390/genes12091336.
   - Totikov, A.; Tomarovsky, A.; Derezanin, L.; Dudchenko, O.; Lieberman-Aiden, E.; Koepfli, K.; Kliver, S. Chromosome-Level Genome Assemblies: Expanded Capabilities for Conservation Biology Research. Proceedings 2021, 76, 10. doi: 10.3390/IECGE-07149
   - Tomarovsky A.A., Ryadinskaya O.P., Toward an ecological classification of soil bacteria. We make the future: Collected papers of students / Editor-in-Chief: I.V. Borisovskaya, E.N. Taranova. – V. 1. – Belgorod, 2018. – 204 р.
