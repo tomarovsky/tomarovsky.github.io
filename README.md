@@ -13,7 +13,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 [St. Petersburg State University](https://spbu.ru/) - St. Petersburg, Russia _(2019 - 2021)_
 
 **Ph.D.** in Biology<br>
-[Novosibirsk State University](https://www.nsu.ru/n/) - Novosibirsk, Russia _(2021 - now)_
+[Novosibirsk State University](https://www.nsu.ru/n/) - Novosibirsk, Russia _(2021 - Present)_
 
 ## 🏆 Accomplishments
 
@@ -50,28 +50,13 @@ ResOps experience on computing clusters [MSU FBB](https://makarich.fbb.msu.ru/),
 
 ## 📌 On The Side
 
-**Script package for Bioinformatics** @ [Biocrutch](https://github.com/tomarovsky/Biocrutch) _(2020 - Present)_<br>
-My project contains conceptual scripts for bioinformatics.
-  - [SRAtoolkit](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/SRA_toolkit.py). The program parses the link from the Sequence Read Archive (SRA) and allows you to download reads in the sra format. The program also checks the integrity of the finished reads by parsing the required metrics of the source files.
-  - [Pseudoautosomal region](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/genomecov/pseudoautosomal_region.py). A script for determining the coordinates of the pseudo-autosomal region on the sex chromosome. The output is a BED file with the coordinates of the pseudoautosomal region.
-  - [RepeatMasking scripts](https://github.com/tomarovsky/Biocrutch/tree/master/scripts/RepeatMasking). Scripts for converting TRF, RepeatMasker and WindowMasker output to GFF format.
-  - [EMA to FASTQ](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/10x/ema_bin_to_fastq.py). Combines Ema output BINfiles into reverse FASTQ, forward FASTQ and barcode-only files.
-  - [QuastCore](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/quast_core.py). The program is an alternative to the publicly available Quast program. Its main differences are: 
-    1. adding only the necessary cutoffs.
-    2. counting missing N values.
-    3. the output of the program is a pandas dataframe used for further analysis.
-    4. output to a convenient csv file format. And others.
-  - [Coverage statistics](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/Coverage/coverage_statistics.py). Script for calculating median, average, maximum and minimum coverage. Script works with the output of Bedtools Genomecov and Mosdepth programs.
-    1. calculate stats for whole genome.
-    2. calculate stats for each scaffold.
-    3. calculate stats stacking windows.
-  - [PSMC data combine](https://github.com/tomarovsky/Biocrutch/blob/master/scripts/Auto/psmc_data_combine.py). The script combines data from several [PSMC](https://github.com/lh3/psmc) outputs to draw multiple demographic population histories on a single graph.
-  <br><br>
-
 **Blastim courses** @ [Blastim](https://agency.blastim.ru/educenter) _(2021 - Present)_<br>
 Technical support for Blastim courses:
   - [Анализ NGS-данных](https://agency.blastim.ru/ngs) _(Jul 2021)_
   - [Python и Linux для биоинформатики и биологии](https://agency.blastim.ru/python) _(Sep 2021)_
+
+**Script package for Bioinformatics** @ [Biocrutch](https://github.com/tomarovsky/Biocrutch) _(2020 - Present)_<br>
+My project contains conceptual bioinformatics scripts for genome and coverage statistics, repeat masking, determining coordinates of pseudo-autosomal region, filtering 10X Genomics linked reads, PSMC date combine and many others.
   <br><br>
 
 ## 📝 Articles
