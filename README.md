@@ -79,7 +79,7 @@ My project contains conceptual bioinformatics scripts for genome and coverage st
 ## 💬 Languages
 
 **Russian**: Native <br>
-**English**: Upper-Intermediate
+**English**: Pre-Intermediate
 <br><br>
 
 
