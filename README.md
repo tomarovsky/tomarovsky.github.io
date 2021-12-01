@@ -4,6 +4,8 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/tomatoma) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
 
+📝[PDF CV](https://github.com/tomarovsky/tomarovsky.github.io/cv.pdf)
+
 ## 👨🏻‍🎓 Education
 
 | _September, 2021 - present_ | **PhD student in Genetics**. Novosibirsk State University, Novosibirsk, Russia. **PhD thesis**: Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae). |
