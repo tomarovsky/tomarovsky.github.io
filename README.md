@@ -6,15 +6,9 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 ## 👨🏻‍🎓 Education
 
-| September, 2021 - present | PhD student in Genetics. Novosibirsk State University, Novosibirsk, Russia. PhD thesis: Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae). |
-| September, 2019 - July 2021 | MS in Bioinformatics. Saint-Petersburg State University, St. Petersburg, Russia. MS thesis: Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. |
-| September, 2015 - July 2019 | BS in Biotechnologies. Belgorod State National Research University, Belgorod, Russia. |
-
-
-## 🏆 Accomplishments
-
-ResOps experience on computing clusters [MSU FBB](https://makarich.fbb.msu.ru/), [IMCB](https://www.mcb.nsc.ru/) and [ITMO](https://itmo.ru/ru/).
-[JetBrains Research](https://research.jetbrains.org/) Scholarship (2020).
+| _September, 2021 - present_ | **PhD student in Genetics**. Novosibirsk State University, Novosibirsk, Russia. **PhD thesis**: Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae). |
+| _September, 2019 - July 2021_ | **MS in Bioinformatics**. Saint-Petersburg State University, St. Petersburg, Russia. **MS thesis**: Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. |
+| _September, 2015 - July 2019_ | **BS in Biotechnologies**. Belgorod State National Research University, Belgorod, Russia. |
 
 ### 🛠 Courses
 
@@ -44,18 +38,80 @@ ResOps experience on computing clusters [MSU FBB](https://makarich.fbb.msu.ru/),
   - C++ Tutorial course
   - Git
 
+## 🏆 Work experience
+
+1) _March, 2021 - present_ **Research programmer at the Genomic Diversity Research Center, ITMO University**. Conducts research on genomics of the genus Martes:
+- Quality control and filtering of sequencing data.
+- De novo assembly and quality control.
+- Genome annotation:
+  - Whole genome alignments (pairwise and multiple) and coverage statistics.
+  - Calculating the coordinates of the pseudoautosomal region (custom algorithm was developed).
+  - De novo assembly and annotation of genome repeats.
+  - Protein-coding and non-coding genes annotation.
+- Calling and filtering of genetic variants.
+- Visualization and analysis of heterozygosity.
+- Phylogenetic and evolutionary analysis.
+- Comparison and analysis of the results obtained.
+- Pipeline development based on Bash and Snakemake.
+
+2) _July, 2021 - September 2021_ **Technical and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
+  a) Analysis of NGS data (September 2021).
+  b) Python and Linux for Bioinformatics and Biology (July 2021).
+
+3) _December, 2020 - August 2021_ **ResOps and system administration experience on computing cluster MSU FBB**. 
+- Assistance in writing commands and pipelines for bioinformatic analyses.
+- Software support for cluster users.
+- Creating a cluster [documentation](https://ma.fbb.msu.ru/faq/).
+
+### 🛠 Skills
+
+**English**: Pre-Intermediate.
+**OS**: Linux, Windows.
+**Shell**: Bash.
+  A good knowledge of the various shell tools, such as Awk, Grep, Sed.
+**Programming**: Python.
+**Python libraries**: Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages.
+  - Parsing data from files or websites to Pandas dataframes.
+  - Calculation of average, median, minimum and maximum values in datasets.
+  - Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams.
+  - A little experience in ML (kNN, clustering, linear regression)
+**Statistics**: R.
+**R libraries**: readxl, dplyr, car, cowplot, ggplot2. Experience analyzing various datasets, such as those containing information on different types of cancer and patient survival times.
+  - Linear and multiple regression.
+  - Description and significance testing of linear models.
+  - Comparison of linear models.
+  - Testing statistical hypotheses.
+**Workflow managers**: Snakemake. 
+  Experience in writing complex Snakemake pipelines including benchmarking, logging, task grouping and running on a compute cluster. There is experience in collaborative development.
+**Workload managers**: Slurm, PBS.
+  ResOps experience on computing clusters MSU FBB, ICG, IMCB and ITMO. Running large-scale computational tasks using Slurm, PBS and Snakemake. Installation and interaction with Conda environments.
+**Others**: 
+  - SQL (creating a database, simple and medium complexity queries)
+  - Circos (basic level, experience in visualization of mDNA and its coverage)
+  - Tcl (basic level, experience in writing module files)
+
 ## 📌 On The Side
 
-**Blastim courses** @ [Blastim](https://agency.blastim.ru/educenter) _(2021 - Present)_<br>
-Technical support for Blastim courses:
-  - [Анализ NGS-данных](https://agency.blastim.ru/ngs) _(Jul 2021)_
-  - [Python и Linux для биоинформатики и биологии](https://agency.blastim.ru/python) _(Sep 2021)_
+Snakemake pipelines:
 
-**Script package for Bioinformatics** @ [Biocrutch](https://github.com/tomarovsky/Biocrutch) _(2020 - Present)_<br>
-My project contains conceptual bioinformatics scripts for genome and coverage statistics, repeat masking, determining coordinates of pseudo-autosomal region, filtering 10X Genomics linked reads, PSMC date combine and many others.
-  <br><br>
+1) _September, 2021 - present_ **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**
+  Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed.
+
+
+2) _March, 2021 - November 2021_ **[BuscoPhylo](https://github.com/mahajrod/BuscoPhylo)**
+  Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs.
+
+Others:
+
+ - _2020 - present_ **[Biocrutch](https://github.com/tomarovsky/Biocrutch)**
+  A custom python package for bioinformatics research. My project contains bioinformatics scripts for genome and coverage statistics, repeats masking, determining coordinates of pseudoautosomal region, filtering 10XGenomics linked reads, PSMC date combine and others.
+
+
+ - _2020 - present_ **[Bashare](https://github.com/tomarovsky/bashare)**
+  The repository contains custom Bash scripts and pipelines for data processing.
 
 ## 📝 Grants
+
 Russian Foundation for Basic Research, grant № 20-04-00808 A, “Genomes and genetic diversity of mustelids (fam. Mustelidae) of Russia and South-Eastern Asia”.
 
 ## 📝 Articles
