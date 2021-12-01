@@ -70,23 +70,8 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 | **OS**: | Linux, Windows. |
 | **Shell**: | Bash. A good knowledge of the various shell tools, such as Awk, Grep, Sed. |
 | **Programming**: | Python. |
-| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages.
-- Parsing data from files or websites to Pandas dataframes.
-- Calculation of average, median, minimum and maximum values in datasets.
-- Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams.
-- A little experience in ML (kNN, clustering, linear regression) |
+| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. \n a) Parsing data from files or websites to Pandas dataframes. \n b) Calculation of average, median, minimum and maximum values in datasets. \n c) Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. \n d) A little experience in ML (kNN, clustering, linear regression) |
 | **Statistics**: | R. |
-| **R libraries**: | readxl, dplyr, car, cowplot, ggplot2. Experience analyzing various datasets, such as those containing information on different types of cancer and patient survival times.
-- Linear and multiple regression.
-- Description and significance testing of linear models.
-- Comparison of linear models.
-- Testing statistical hypotheses. |
-| **Workflow managers**: | Snakemake. Experience in writing complex Snakemake pipelines including benchmarking, logging, task grouping and running on a compute cluster. There is experience in collaborative development. |
-| **Workload managers**: | Slurm, PBS. ResOps experience on computing clusters MSU FBB, ICG, IMCB and ITMO. Running large-scale computational tasks using Slurm, PBS and Snakemake. Installation and interaction with Conda environments. |
-| **Others**: | 
-- SQL (creating a database, simple and medium complexity queries)
-- Circos (basic level, experience in visualization of mDNA and its coverage)
-- Tcl (basic level, experience in writing module files) |
 
 ## 📌 On The Side
 
