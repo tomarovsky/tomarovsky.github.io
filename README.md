@@ -58,8 +58,8 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 2) _July, 2021 - September 2021_ **Technical and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
 
-  a) Analysis of NGS data (September 2021).
-  b) Python and Linux for Bioinformatics and Biology (July 2021).
+- Analysis of NGS data (September 2021).
+- Python and Linux for Bioinformatics and Biology (July 2021).
 
 3) _December, 2020 - August 2021_ **ResOps and system administration experience on computing cluster MSU FBB**. 
 - Assistance in writing commands and pipelines for bioinformatic analyses.
