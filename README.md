@@ -81,16 +81,12 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 _Snakemake pipelines:_
 
-| September, 2021 - present_ | **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
-
-
+| _September, 2021 - present_ | **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
 | _March, 2021 - November 2021_ | **[BuscoPhylo](https://github.com/mahajrod/BuscoPhylo)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
 
 _Others:_
 
 | _2020 - present_ | **[Biocrutch](https://github.com/tomarovsky/Biocrutch)**. A custom python package for bioinformatics research. My project contains bioinformatics scripts for genome and coverage statistics, repeats masking, determining coordinates of pseudoautosomal region, filtering 10XGenomics linked reads, PSMC date combine and others. |
-
-
 | _2020 - present_ | **[Bashare](https://github.com/tomarovsky/bashare)**. The repository contains custom Bash scripts and pipelines for data processing. |
 
 ## 📝 Grants
