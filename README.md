@@ -70,8 +70,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 | **OS**: | Linux, Windows. |
 | **Shell**: | Bash. <br/> A good knowledge of the various shell tools, such as Awk, Grep, Sed. |
 | **Programming**: | Python. |
-| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). <br/>
-Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. <br/> - Parsing data from files or websites to Pandas dataframes. <br/> - Calculation of average, median, minimum and maximum values in datasets. <br/> - Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. <br/> - A little experience in ML (kNN, clustering, linear regression) |
+| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). <br/>Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. <br/> - Parsing data from files or websites to Pandas dataframes. <br/> - Calculation of average, median, minimum and maximum values in datasets. <br/> - Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. <br/> - A little experience in ML (kNN, clustering, linear regression) |
 | **Statistics**: | R. |
 | **R libraries**: | readxl, dplyr, car, cowplot, ggplot2. <br/> Experience analyzing various datasets, such as those containing information on different types of cancer and patient survival times. <br/> - Linear and multiple regression. <br/> - Description and significance testing of linear models. <br/> - Comparison of linear models. <br/> - Testing statistical hypotheses. |
 | **Workflow managers**: | Snakemake. <br/> Experience in writing complex Snakemake pipelines including benchmarking, logging, task grouping and running on a compute cluster. There is experience in collaborative development. |
