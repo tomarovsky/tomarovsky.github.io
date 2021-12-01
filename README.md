@@ -2,18 +2,14 @@
 
 _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
-📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/tomatoma) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 🧬[Rosalind](http://rosalind.info/users/toma/) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
+📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/tomatoma) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
 
 ## 👨🏻‍🎓 Education
 
-**Bachelor's degree** in Biotechnologies<br>
-[Belgorod State National Research University](https://www.bsu.edu.ru/bsu/) - Belgorod, Russia _(2015 - 2019)_
+| September, 2021 - present | PhD student in Genetics. Novosibirsk State University, Novosibirsk, Russia. PhD thesis: Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae). |
+| September, 2019 - July 2021 | MS in Bioinformatics. Saint-Petersburg State University, St. Petersburg, Russia. MS thesis: Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. |
+| September, 2015 - July 2019 | BS in Biotechnologies. Belgorod State National Research University, Belgorod, Russia. |
 
-**Master's degree** in Bioinformatics<br>
-[St. Petersburg State University](https://spbu.ru/) - St. Petersburg, Russia _(2019 - 2021)_
-
-**Ph.D.** in Biology<br>
-[Novosibirsk State University](https://www.nsu.ru/n/) - Novosibirsk, Russia _(2021 - Present)_
 
 ## 🏆 Accomplishments
 
@@ -59,11 +55,13 @@ Technical support for Blastim courses:
 My project contains conceptual bioinformatics scripts for genome and coverage statistics, repeat masking, determining coordinates of pseudo-autosomal region, filtering 10X Genomics linked reads, PSMC date combine and many others.
   <br><br>
 
+## 📝 Grants
+Russian Foundation for Basic Research, grant № 20-04-00808 A, “Genomes and genetic diversity of mustelids (fam. Mustelidae) of Russia and South-Eastern Asia”.
+
 ## 📝 Articles
 
-  - Derežanin L, Blažytė A, Dobrynin P, Duchêne DA, Grau JH, Jeon S, Kliver S, Koepfli KP, Meneghini D, Preick M, Tomarovsky A. Genome assembly of the tayra (Eira barbara, Mustelidae) and comparative genomic analysis reveal adaptive genetic variation in the subfamily Guloninae. bioRxiv. 2021 Jan 1.
-  - Totikov, Azamat, Andrey Tomarovsky, Dmitry Prokopov, Aliya Yakupova, Tatiana Bulyonkova, Lorena Derezanin, Dmitry Rasskazov, и др. «Chromosome-Level Genome Assemblies Expand Capabilities of Genomics for Conservation Biology». Genes 12, вып. 9 (сентябрь 2021 г.): 1336. https://doi.org/10.3390/genes12091336.
-  - Totikov, A.; Tomarovsky, A.; Derezanin, L.; Dudchenko, O.; Lieberman-Aiden, E.; Koepfli, K.; Kliver, S. Chromosome-Level Genome Assemblies: Expanded Capabilities for Conservation Biology Research. Proceedings 2021, 76, 10. doi: 10.3390/IECGE-07149
+  - (submitted) Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A; Totikov, A.; Fickel, J.; Förster, D.W. Genome assembly of the tayra (Eira barbara, Mustelidae) and comparative genomic analysis reveal adaptive genetic variation in the subfamily Guloninae. 2021.
+  - Totikov, A.; Tomarovsky, A.; Prokopov, D.; Yakupova, A.; Bulyonkova, T.; Derezanin, L.; Rasskazov, D.; Wolfsberger, W.; Koepfli, K.P.; Oleksyk, T.K. and Kliver, S. Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes 2021, 12, x. https://doi.org/10.3390/genes12091336
   - Tomarovsky A.A., Ryadinskaya O.P., Toward an ecological classification of soil bacteria. We make the future: Collected papers of students / Editor-in-Chief: I.V. Borisovskaya, E.N. Taranova. – V. 1. – Belgorod, 2018. – 204 р.
 
 ## 👨🏻‍💼 Conferences
