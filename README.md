@@ -70,7 +70,12 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 | **OS**: | Linux, Windows. |
 | **Shell**: | Bash. A good knowledge of the various shell tools, such as Awk, Grep, Sed. |
 | **Programming**: | Python. |
-| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. \n a) Parsing data from files or websites to Pandas dataframes. \n b) Calculation of average, median, minimum and maximum values in datasets. \n c) Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. \n d) A little experience in ML (kNN, clustering, linear regression) |
+| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). <br/>
+Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. <br/>
+<ul><li> a) Parsing data from files or websites to Pandas dataframes. </li><li> 
+<ul><li> b) Calculation of average, median, minimum and maximum values in datasets. </li><li> 
+<ul><li> c) Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. </li><li>
+<ul><li> d) A little experience in ML (kNN, clustering, linear regression) </li><li> |
 | **Statistics**: | R. |
 
 ## 📌 On The Side
