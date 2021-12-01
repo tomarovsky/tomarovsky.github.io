@@ -68,7 +68,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 | **English**: | Pre-Intermediate. |
 | **OS**: | Linux, Windows. |
-| **Shell**: | Bash. \nA good knowledge of the various shell tools, such as Awk, Grep, Sed. |
+| **Shell**: | Bash. A good knowledge of the various shell tools, such as Awk, Grep, Sed. |
 | **Programming**: | Python. |
 | **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages.
     - Parsing data from files or websites to Pandas dataframes.
