@@ -72,10 +72,10 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 | **Programming**: | Python. |
 | **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn (basic level). <br/>
 Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. <br/>
-<ul><li> a) Parsing data from files or websites to Pandas dataframes. </li><li> 
-<ul><li> b) Calculation of average, median, minimum and maximum values in datasets. </li><li> 
-<ul><li> c) Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. </li><li>
-<ul><li> d) A little experience in ML (kNN, clustering, linear regression) </li><li> |
+<ul><li> a) Parsing data from files or websites to Pandas dataframes.
+</li><li> b) Calculation of average, median, minimum and maximum values in datasets.
+</li><li> c) Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams.
+</li><li> d) A little experience in ML (kNN, clustering, linear regression) </li></ul> |
 | **Statistics**: | R. |
 
 ## 📌 On The Side
