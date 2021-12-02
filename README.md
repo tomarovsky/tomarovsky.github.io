@@ -68,7 +68,6 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 ### 🛠 Skills
 
-| **English**: | Pre-Intermediate |
 | **OS**: | Linux, Windows |
 | **Shell**: | Bash. <br/> A good knowledge of the various shell tools, such as Awk, Grep, Sed |
 | **Programming**: | Python |
@@ -116,5 +115,3 @@ _Others:_
 **Russian**: Native <br>
 **English**: Pre-Intermediate
 <br><br>
-
-
