@@ -8,8 +8,8 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 ## 👨🏻‍🎓 Education
 
-| _September, 2021 - present_ | **PhD student in Genetics**. Novosibirsk State University, Novosibirsk, Russia. **PhD thesis**: Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae). |
-| _September, 2019 - July 2021_ | **MS in Bioinformatics**. Saint-Petersburg State University, St. Petersburg, Russia. **MS thesis**: Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. |
+| _September, 2021 - present_ | **PhD student in Genetics**. Novosibirsk State University, Novosibirsk, Russia. _PhD thesis_: "Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae)". |
+| _September, 2019 - July 2021_ | **MS in Bioinformatics**. Saint-Petersburg State University, St. Petersburg, Russia. _MS thesis_: "Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes". |
 | _September, 2015 - July 2019_ | **BS in Biotechnologies**. Belgorod State National Research University, Belgorod, Russia. |
 
 ### 🛠 Courses
