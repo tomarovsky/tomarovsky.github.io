@@ -56,10 +56,10 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 - Comparison and analysis of the results obtained.
 - Pipeline development based on Bash and Snakemake.
 
-2) _July, 2021 - September 2021_ **Technical and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
+2) _July, 2021 - present_ **Technical and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
 
-- Analysis of NGS data (September 2021).
 - Python and Linux for Bioinformatics and Biology (July 2021).
+- Analysis of NGS data (September 2021, February 2022).
 
 3) _December, 2020 - August 2021_ **ResOps and system administration experience on computing cluster MSU FBB**. 
 - Assistance in writing commands and pipelines for bioinformatic analyses.
@@ -82,13 +82,13 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 _Snakemake pipelines:_
 
-| _September, 2021 - present_ | **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
-| _March, 2021 - November 2021_ | **[BuscoPhylo](https://github.com/mahajrod/BuscoPhylo)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
+| **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
+| **[BuscoPhylo](https://github.com/mahajrod/BuscoPhylo)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
 
 _Others:_
 
-| _2020 - present_ | **[Biocrutch](https://github.com/tomarovsky/Biocrutch)**. A custom python package for bioinformatics research. My project contains bioinformatics scripts for genome and coverage statistics, repeats masking, determining coordinates of pseudoautosomal region, filtering 10XGenomics linked reads, PSMC date combine and others. |
-| _2020 - present_ | **[Bashare](https://github.com/tomarovsky/bashare)**. The repository contains custom Bash scripts and pipelines for data processing. |
+| **[Biocrutch](https://github.com/tomarovsky/Biocrutch)**. A custom python package for bioinformatics research. My project contains bioinformatics scripts for genome and coverage statistics, repeats masking, determining coordinates of pseudoautosomal region, filtering 10XGenomics linked reads, PSMC date combine and others. |
+| **[Bashare](https://github.com/tomarovsky/bashare)**. The repository contains custom Bash scripts and pipelines for data processing. |
 
 ## 📝 Grants
 
