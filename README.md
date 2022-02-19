@@ -84,6 +84,7 @@ _Snakemake pipelines:_
 
 | **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
 | **[BuscoPhylo](https://github.com/mahajrod/BuscoPhylo)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
+| **[varcaller](https://github.com/rutaolta/varcaller)**. Pipeline for calling genetic variants correctly. Includes visualization of coverage and calculation of PAR coordinates. |
 
 _Others:_
 
