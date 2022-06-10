@@ -12,34 +12,6 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 | _September, 2019 - July 2021_ | **MS in Bioinformatics**. Saint-Petersburg State University, St. Petersburg, Russia. _MS thesis_: "Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes". |
 | _September, 2015 - July 2019_ | **BS in Biotechnologies**. Belgorod State National Research University, Belgorod, Russia. |
 
-### 🛠 Courses
-
-**[Coursera:](https://www.coursera.org/user/9470ce667a3222f90f4566e23282df3b)**
-  - Capstone: Retrieving, Processing, and Visualizing Data with Python
-  - Programming for Everybody (Getting Started with Python)
-  - Python Data Structures
-  - Знакомство с R и базовая статистика
-
-**[Stepik.org:](https://stepik.org/users/73031805)**
-  - Введение в Linux
-  - Программирование на Python
-  - Python: основы и применение
-  - Биотехнологии: генная инженерия
-  - Секвенирование 3-го поколения на Oxford Nanopore
-  - Введение в молекулярную биологию и биомедицину
-  - Молекулярная биология и генетика
-  - Генетика и геномика популяций
-  - Молекулярная филогенетика
-  - Python Skills for Handling Biological Data
-  - Алгоритмы: теория и практика. Структуры данных
-  - Основы Git
-
-**[Sololearn.com:](https://www.sololearn.com/Profile/10277208/?ref=app)**
-  - Python 3 Tutorial course
-  - SQL Fundamentals course
-  - C++ Tutorial course
-  - Git
-
 ## 🏆 Work experience
 
 1) _March, 2021 - present_ **Research programmer at the Genomic Diversity Research Center, ITMO University**. Conducts research on genomics of the genus Martes:
@@ -61,7 +33,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 - Python and Linux for Bioinformatics and Biology (July 2021).
 - Analysis of NGS data (September 2021, February 2022).
 
-3) _December, 2020 - August 2021_ **ResOps and system administration experience on computing cluster MSU FBB**. 
+3) _December, 2020 - present_ **ResOps and system administration experience on computing cluster MSU FBB**. 
 - Assistance in writing commands and pipelines for bioinformatic analyses.
 - Software support for cluster users.
 - Creating a cluster [documentation](https://ma.fbb.msu.ru/faq/).
@@ -103,13 +75,10 @@ _Others:_
 
 ## 👨🏻‍💼 Conferences
 
-  - Tomarovsky, A.; Azamat A. Totikov; Violetta R. Beklemisheva; Polina L. Perelman; Natalia A. Serdyokova; Tatiana Bulyonkova; Ksenia A. Koniaeva; Alexei V. Abramov; Alexander S. Graphodatsky; Klaus-Peter Koepfli; Roger A. Powell; Sergei F. Kliver, Assembly and annotation of sable (Martes zibellina) and pine marten (Martes martes) genomes, Moscow Conference on Computational Molecular Biology (MCCMB), July 30th — August 2nd, 2021.
-  - Azamat A. Totikov; Andrey A. Tomarovsky; Polina Perelman; Natalia Serdyokova; Violetta R. Beklemisheva; Tatiana M. Bulyonkova; Inês Miranda; Liliana Farelo; Karol Zub; Viktor V. Panov; Anna S. Mukhacheva; Alexei V. Abramov; Klaus-Peter Koepfli; Alexander S. Graphodatsky; Jose Melo-Ferreira; Sergei F. Kliver, Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis, Moscow Conference on Computational Molecular Biology (MCCMB), July 30th — August 2nd, 2021.
-  - Totikov, A., Tomarovsky, A., Derezanin, L., Dudchenko, O., Lieberman-Aiden, E., Koepfli, K., & Kliver, S. (2020, November). Chromosome-Level Genome Assemblies Expanded Capabilities of Conservation Biology. In Presented at the 1st International Electronic Conference on Genes: Theoretical and Applied Genomics (Vol. 2, p. 30).
-  - Тотиков А.А., Томаровский А.А., Анализ кластеров генов биосинтеза метаболитов в бактериальных геномах. 24-я Международная Пущинская школаконференция молодых ученых. 2020, Пущино. Сборник тезисов, 2020. – 446 с. ISBN 978-5-91874-901-2.
-  - Томаровский А.А., Лихидченко В.И., Поливанова Е.Ю., Серикова Н.В., Анализ и сравнение результатов после применения фермента Alphalase AFP на клетки Corynebacterium glutamicum. CXIX Международная научнопрактическая конференция «Молодой исследователь: вызовы и перспективы», 05/2019.
-  - Томаровский А.А., Лихидченко В.И., Поливанова Е.Ю., Серикова Н.В., Действие фермента Proteinase T на клетки производственного штамма Corynebacterium glutamicum. XIX Всероссийская конференция молодых ученых «Биотехнология в растениеводстве, животноводстве и сельскохозяйственной микробиологии» Сборник тезисов докладов, г. Москва, 04/2019;
-  - Лихидченко В.И., Томаровский А.А., Поливанова Е.Ю., Серикова Н.В., Влияние метабисульфита натрия (223) на сохранность лизина в процессе хранения. XIX Всероссийская конференция молодых ученых «Биотехнология в растениеводстве, животноводстве и сельскохозяйственной микробиологии» Сборник тезисов докладов, г. Москва, 04/2019;
+- Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Perelman, P.; Serdyokova, N.; Bulyonkova, T.; Koniaeva, K.; Abramov, A.; Graphodatsky, A.; Koepfli K.; Powell R.; Kliver S. Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. ISBN: 978-5-901158-32-6.
+- Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
+- Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
+- Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A; Totikov, A.; Fickel, J.; Förster, D.W. Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology 2022. DOI: 10.1111/mec.16443.
 
 ## 💬 Languages
 
