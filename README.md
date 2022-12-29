@@ -2,9 +2,9 @@
 
 _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
-📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/tomatoma) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
+📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/atomarovsky) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
 
-📝[PDF CV Download](https://github.com/tomarovsky/tomarovsky.github.io/raw/master/cv.pdf)
+📝[PDF CV Download](https://github.com/tomarovsky/tomarovsky.github.io/raw/master/CV.pdf)
 
 ## 👨🏻‍🎓 Education
 
@@ -33,7 +33,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 - Python and Linux for Bioinformatics and Biology (July 2021).
 - Analysis of NGS data (September 2021, February 2022).
 
-3) _December, 2020 - present_ **ResOps and system administration experience on computing cluster MSU FBB**. 
+3) _December, 2020 - present_ **ResOps and system administration experience on computing cluster MSU FBB**.
 - Assistance in writing commands and pipelines for bioinformatic analyses.
 - Software support for cluster users.
 - Creating a cluster [documentation](https://ma.fbb.msu.ru/faq/).
@@ -54,9 +54,9 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
 _Snakemake pipelines:_
 
+| **[BuscoClade](https://github.com/mahajrod/BuscoClade)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
 | **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
-| **[BuscoPhylo](https://github.com/mahajrod/BuscoPhylo)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
-| **[varcaller](https://github.com/rutaolta/varcaller)**. Pipeline for calling genetic variants correctly. Includes visualization of coverage and calculation of PAR coordinates. |
+| **[varcaller](https://github.com/BioHappyThreeFriends/varcaller)**. Pipeline for calling genetic variants correctly. Includes visualization of coverage and calculation of PAR coordinates. |
 
 _Others:_
 
@@ -69,9 +69,13 @@ _Others:_
 
 ## 📝 Articles
 
-  - (submitted) Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A; Totikov, A.; Fickel, J.; Förster, D.W. Genome assembly of the tayra (Eira barbara, Mustelidae) and comparative genomic analysis reveal adaptive genetic variation in the subfamily Guloninae. 2021.
-  - Totikov, A.; Tomarovsky, A.; Prokopov, D.; Yakupova, A.; Bulyonkova, T.; Derezanin, L.; Rasskazov, D.; Wolfsberger, W.; Koepfli, K.P.; Oleksyk, T.K. and Kliver, S. Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes 2021, 12, x. https://doi.org/10.3390/genes12091336
-  - Tomarovsky A.A., Ryadinskaya O.P., Toward an ecological classification of soil bacteria. We make the future: Collected papers of students / Editor-in-Chief: I.V. Borisovskaya, E.N. Taranova. – V. 1. – Belgorod, 2018. – 204 р.
+- A. Yakupova et al. (submitted). Chromosome length genome assembly of the Baikal seal (Pusa sibirica) reveals fewer answers than new mysteries. Molecular ecology.
+- А. Тотиков и др. (готова к публикации). Обзор методов реконструкции демографической истории популяций в природоохранной биологии.
+- L. Derežanin et al. (2022). Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology. DOI: 10.1111/mec.16443;
+- A. Totikov et al. (2021). Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes, 12:9. DOI: 10.3390/genes12091336;
+- A. Tomarovsky et al. (2021). Assembly and annotation of sable (Martes zibellina) and pine marten (Martes martes) genomes. Moscow Conference on Computational Molecular Biology (MCCMB-2021). ISBN: 978-5-901158-32-6.
+- A. Totikov et al. (2021). Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. Moscow Conference on Computational Molecular Biology (MCCMB-2021). ISBN: 978-5-901158-32-6;
+
 
 ## 👨🏻‍💼 Conferences
 
