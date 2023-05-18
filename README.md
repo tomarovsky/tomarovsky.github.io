@@ -1,81 +1,91 @@
-<h1 align="center">online-resume</h1>
+# Andrey Tomarovsky
 
-<p align="center">
-  <a href="https://github.com/tarrex/online-resume/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tarrex/online-resume?style=flat-square" alt="GitHub License"></a>
-  <a href="https://github.com/tarrex/online-resume/forks"><img src="https://img.shields.io/github/forks/tarrex/online-resume?style=flat-square" alt="GitHub forks"></a>
-  <a href="https://github.com/tarrex/online-resume/stargazers"><img src="https://img.shields.io/github/stars/tarrex/online-resume?style=flat-square" alt="GitHub Repo stars"></a>
-  <a href="https://tarrex.github.io/online-resume"><img src="https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=https%3A%2F%2Ftarrex.github.io%2Fonline-resume" alt="Demo Website"></a>
-</p>
+_Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 
-<h4 align="center">A minimalist Jekyll theme for your resume.</h4>
+📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/atomarovsky) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
 
----
+📝[PDF CV Download](https://github.com/tomarovsky/tomarovsky.github.io/raw/master/CV.pdf)
 
-## Live Demo
+## 👨🏻‍🎓 Education
 
-:point_right: [online-resume][Demo] :point_left:
+| _September, 2021 - present_ | **PhD student in Genetics**. Novosibirsk State University, Novosibirsk, Russia. _PhD thesis_: "Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae)". |
+| _September, 2019 - July 2021_ | **MS in Bioinformatics**. Saint-Petersburg State University, St. Petersburg, Russia. _MS thesis_: "Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes". |
+| _September, 2015 - July 2019_ | **BS in Biotechnologies**. Belgorod State National Research University, Belgorod, Russia. |
 
-## Getting Started
+## 🏆 Work experience
 
-Online-Resume is a Jekyll theme designed for creating resumes. It enables you to write your resume in YAML file using Markdown and manage it through Git. It can be displayed on a web page and printed as a PDF file directly from the browser.
+1) _March, 2021 - present_ **Research programmer at the Genomic Diversity Research Center, ITMO University**. Conducts research on genomics of the genus Martes:
+- Quality control and filtering of sequencing data.
+- _De novo_ assembly and quality control.
+- Genome annotation:
+  - Whole genome alignments (pairwise and multiple) and coverage statistics.
+  - Calculating the coordinates of the pseudoautosomal region (custom algorithm was developed).
+  - _De novo_ assembly and annotation of genome repeats.
+  - Protein-coding and non-coding genes annotation.
+- Calling and filtering of genetic variants.
+- Visualization and analysis of heterozygosity.
+- Phylogenetic and evolutionary analysis.
+- Comparison and analysis of the results obtained.
+- Pipeline development based on Bash and Snakemake.
 
-You can deploy it on various platforms that support Jekyll or static files, such as GitHub Pages, Cloudflare Pages, Vercel, Netlify, your own hosting service, and others.
+2) _July, 2021 - present_ **Technical and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
 
-Features:
+- Python and Linux for Bioinformatics and Biology (July 2021).
+- Analysis of NGS data (September 2021, February 2022).
 
-- User-friendly and easy to deploy.
-- Built with Jekyll and Markdown.
-- Supports multiple languages.
-- Customizable theme color and basic styles.
-- Modular content design.
-- Responsive display.
+3) _December, 2020 - present_ **ResOps and system administration experience on computing cluster MSU FBB**.
+- Assistance in writing commands and pipelines for bioinformatic analyses.
+- Software support for cluster users.
+- Creating a cluster [documentation](https://ma.fbb.msu.ru/faq/).
 
-### Usage
+### 🛠 Skills
 
-#### Quickly
+| **OS**: | Linux, Windows |
+| **Shell**: | Bash. <br/> A good knowledge of the various shell tools, such as Awk, Grep, Sed |
+| **Programming**: | Python |
+| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn <br/>Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. <br/> - Parsing data from files or websites to Pandas dataframes. <br/> - Calculation of average, median, minimum and maximum values in datasets. <br/> - Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. <br/> - A little experience in ML (kNN, clustering, linear regression) |
+| **Statistics**: | R |
+| **R libraries**: | readxl, dplyr, car, cowplot, ggplot2 <br/> Experience analyzing various datasets, such as those containing information on different types of cancer and patient survival times. <br/> - Linear and multiple regression. <br/> - Description and significance testing of linear models. <br/> - Comparison of linear models. <br/> - Testing statistical hypotheses. |
+| **Workflow managers**: | Snakemake <br/> Experience in writing complex Snakemake pipelines including benchmarking, logging, task grouping and running on a compute cluster. There is experience in collaborative development. |
+| **Workload managers**: | Slurm, PBS. <br/> ResOps experience on computing clusters MSU FBB, ICG, IMCB and ITMO. <br/> - Running large-scale computational tasks using Slurm, PBS and Snakemake. <br/> - Installation and interaction with Conda environments. |
+| **Others**: | - SQL (creating a database, simple and medium complexity queries) <br/> - Circos (basic level, experience in visualization of mDNA and its coverage) <br/> - Tcl (basic level, experience in writing module files) |
 
-- Fork the repository.
-- Click the `settings` option above.
-- Click `pages` in the Code and automation category on the left.
-- Set up github pages in the build and deployment category.
-  - find `source`, drop down and select `Deploy from a branch`.
-  - find `branch`, drop down and select `master` branch.
-  - Click the `save` button on the right.
-- Wait a little while for the successful building.
-- Open `https://YOUR_GITHUB_USERNAME.github.io/online-resume` in your browser.
-- Now you can see the resume page.
-- Edit the `_data/data.yml` file directly to update your resume.
+## 📌 On The Side
 
-#### Customization
+_Snakemake pipelines:_
 
-- `_data/data.yml`: Edit the resume content.
-- `assets/images/profile.png`: Your profile photo.
-- `_config.yml`: Website and theme style settings.
+| **[BuscoClade](https://github.com/mahajrod/BuscoClade)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
+| **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
+| **[varcaller](https://github.com/BioHappyThreeFriends/varcaller)**. Pipeline for calling genetic variants correctly. Includes visualization of coverage and calculation of PAR coordinates. |
 
-## FAQ
+_Others:_
 
-#### How to change the order of the sections in the resume?
+| **[Biocrutch](https://github.com/tomarovsky/Biocrutch)**. A custom python package for bioinformatics research. My project contains bioinformatics scripts for genome and coverage statistics, repeats masking, determining coordinates of pseudoautosomal region, filtering 10XGenomics linked reads, PSMC date combine and others. |
+| **[Bashare](https://github.com/tomarovsky/bashare)**. The repository contains custom Bash scripts and pipelines for data processing. |
 
-There is an `order` option in each section, you can adjust the order by modifying this, the smaller the value the more forward the position.
+## 📝 Grants
 
-#### How to hide the specified section in the resume?
+- Russian Foundation for Basic Research, grant № 20-04-00808 A, “Genomes and genetic diversity of mustelids (fam. Mustelidae) of Russia and South-Eastern Asia”.
 
-If there is no content you want to keep in the section, you can remove it directly. If you want to keep the content, you can set the value of the `show` option of the section to `false`.
+## 📝 Articles
 
-#### How to create a resume in other languages?
-
-For example, if you already have an English version resume and you want to create a Chinese version. Copy a `data.yml` file in the `_data` folder named `cn.yml` and edit the content, then copy an `index.html` file in the root directory named `cn.html` and change the `{%- assign data = site.data.data %}` in the `cn.html` file to `{%- assign data = site.data.cn %}`. After successful building, you can preview the Chinese version of your resume by visiting `https://YOUR_GITHUB_USERNAME.github.io/online-resume/cn`.
-
-#### How to deploy on other platforms, like cloudflare, vercel?
-
-You can read and follow [Cloudflare Pages][Cloudflare Pages], [Vercel][Vercel] documents.
-
-## Others
-
-- Hugo Version: [hugo-theme-online-resume][Other Version]
+- A. Yakupova et al. (submitted). Chromosome length genome assembly of the Baikal seal (Pusa sibirica) reveals fewer answers than new mysteries. Molecular ecology.
+- А. Тотиков и др. (готова к публикации). Обзор методов реконструкции демографической истории популяций в природоохранной биологии.
+- L. Derežanin et al. (2022). Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology. DOI: 10.1111/mec.16443;
+- A. Totikov et al. (2021). Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes, 12:9. DOI: 10.3390/genes12091336;
+- A. Tomarovsky et al. (2021). Assembly and annotation of sable (Martes zibellina) and pine marten (Martes martes) genomes. Moscow Conference on Computational Molecular Biology (MCCMB-2021). ISBN: 978-5-901158-32-6.
+- A. Totikov et al. (2021). Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. Moscow Conference on Computational Molecular Biology (MCCMB-2021). ISBN: 978-5-901158-32-6;
 
 
-[Demo]: https://tarrex.github.io/online-resume
-[Cloudflare Pages]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-jekyll-site/
-[Vercel]: https://vercel.com/guides/deploying-jekyll-with-vercel
-[Other Version]: https://github.com/tarrex/hugo-theme-online-resume
+## 👨🏻‍💼 Conferences
+
+- Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Perelman, P.; Serdyokova, N.; Bulyonkova, T.; Koniaeva, K.; Abramov, A.; Graphodatsky, A.; Koepfli K.; Powell R.; Kliver S. Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. ISBN: 978-5-901158-32-6.
+- Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
+- Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
+- Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A; Totikov, A.; Fickel, J.; Förster, D.W. Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology 2022. DOI: 10.1111/mec.16443.
+
+## 💬 Languages
+
+**Russian**: Native <br>
+**English**: Pre-Intermediate
+<br><br>
