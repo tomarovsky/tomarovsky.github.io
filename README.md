@@ -69,20 +69,17 @@ _Others:_
 
 ## 📝 Articles
 
-- A. Yakupova et al. (submitted). Chromosome length genome assembly of the Baikal seal (Pusa sibirica) reveals fewer answers than new mysteries. Molecular ecology.
-- А. Тотиков и др. (готова к публикации). Обзор методов реконструкции демографической истории популяций в природоохранной биологии.
-- L. Derežanin et al. (2022). Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology. DOI: 10.1111/mec.16443;
-- A. Totikov et al. (2021). Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes, 12:9. DOI: 10.3390/genes12091336;
-- A. Tomarovsky et al. (2021). Assembly and annotation of sable (Martes zibellina) and pine marten (Martes martes) genomes. Moscow Conference on Computational Molecular Biology (MCCMB-2021). ISBN: 978-5-901158-32-6.
-- A. Totikov et al. (2021). Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. Moscow Conference on Computational Molecular Biology (MCCMB-2021). ISBN: 978-5-901158-32-6;
+- (submitted) Kliver, S.; Houck, M.L.;  Perelman, P.L.; Totikov, A.A.; Tomarovsky, A.A.; DNA Zoo Consortium; Chan, S.; Hastie, A.; Komissarov, A.; Ryder, O.A.; Graphodatsky, A.S.; Johnson, W.E.; Maldonado, J.E.; Pukazhenthi, B.S.; Marinari, P.E.; Wildt, D.E.; Koepfli, K.-P. Chromosome-length genome assembly and karyotype of the endangered black-footed ferret (Mustela nigripes). Journal of Heredity.
+- Тотиков А.А., Томаровский А.А., Якупова А.Р., Графодатский А.С., Кливер С.Ф. Обзор методов реконструкции демографической истории популяций в природоохранной биологии // Экологическая генетика. 2023. Т. 21. № 1. С. 85–102. DOI: 10.17816/ecogen120078
+- Yakupova, A.; Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Logacheva, M.; Perelman, P.; Komissarov, A.; Dobrynin, P.; Krasheninnikova, K.; Tamazian, G.; Serdyukova, N.; Rayko, M.; Bulyonkova, T.; Grachev, M.; Cherkasov, N.; Pylev, V.; Varnavsky, A.; Peterfeld, V.; Penin, A.; Balanovska, E.; Lapidus, A.; O’Brien, S.; Graphodatsky, A.; Kepfli, K.-P.; Kliver, S. Chromosome length genome assembly of the Baikal seal (Pusa sibirica) reveals fewer answers than new mysteries. Genes. 2023; 14(3):619. DOI: 10.3390/genes14030619 
+- Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A.; Totikov, A.; Fickel, J.; Förster, D.W. Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology 2022. DOI: 10.1111/mec.16443
+- Totikov, A.; Tomarovsky, A.; Prokopov, D.; Yakupova, A.; Bulyonkova, T.; Derezanin, L.; Rasskazov, D.; Wolfsberger, W.; Koepfli, K.P.; Oleksyk, T.K. and Kliver, S. Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes 2021, 12, x. DOI: 10.3390/genes12091336 
 
 
 ## 👨🏻‍💼 Conferences
 
 - Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Perelman, P.; Serdyokova, N.; Bulyonkova, T.; Koniaeva, K.; Abramov, A.; Graphodatsky, A.; Koepfli K.; Powell R.; Kliver S. Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. ISBN: 978-5-901158-32-6.
 - Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
-- Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
-- Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A; Totikov, A.; Fickel, J.; Förster, D.W. Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology 2022. DOI: 10.1111/mec.16443.
 
 ## 💬 Languages
 
