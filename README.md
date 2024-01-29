@@ -33,7 +33,7 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 - Python and Linux for Bioinformatics and Biology (July 2021).
 - Analysis of NGS data (September 2021, February 2022).
 
-3) _December, 2020 - present_ **ResOps and system administration experience on computing cluster MSU FBB**.
+3) _December, 2020 - January, 2024_ **ResOps and system administration experience on computing cluster MSU FBB**.
 - Assistance in writing commands and pipelines for bioinformatic analyses.
 - Software support for cluster users.
 - Creating a cluster [documentation](https://ma.fbb.msu.ru/faq/).
