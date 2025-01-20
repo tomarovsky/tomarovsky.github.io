@@ -28,10 +28,12 @@ _Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
 - Comparison and analysis of the results obtained.
 - Pipeline development based on Bash and Snakemake.
 
-2) _July, 2021 - present_ **Technical and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
+2) _July, 2021 - present_ **Teaching and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
 
-- Python and Linux for Bioinformatics and Biology (July 2021).
-- Analysis of NGS data (September 2021, February 2022).
+- Introduction to Linux for Bioinformatics.
+- Python and Linux for Bioinformatics and Biology.
+- Snakemake for Bioinformatics.
+- Analysis of NGS data.
 
 3) _December, 2020 - January, 2024_ **ResOps and system administration experience on computing cluster MSU FBB**.
 - Assistance in writing commands and pipelines for bioinformatic analyses.
