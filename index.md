@@ -1,0 +1,13 @@
+---
+layout: homepage
+---
+
+{% include_relative _includes/about.md %}
+
+{% include_relative _includes/internship-seeking.md %}
+
+{% include_relative _includes/news.md %}
+
+{% include_relative _includes/selected-publications.md %}
+
+{% include_relative _includes/services.md %}

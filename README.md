@@ -1,90 +1,471 @@
-# Andrey Tomarovsky
+# Academic Personal Website
 
-_Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
+**Built on the [Minimal Light Theme](https://github.com/yaoyao-liu/minimal-light) by [Yaoyao Liu](https://www.yaoyaoliu.com/)**
 
-📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/atomarovsky) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
+A modern, feature-rich academic homepage with enhanced publication management and automatic Google Scholar integration.
 
-📝[PDF CV Download](https://github.com/tomarovsky/tomarovsky.github.io/raw/master/CV.pdf)
+**Live Site:** [sizhuang.org](https://sizhuang.org/)  
+**Original Theme:** [Minimal Light by Yaoyao Liu](https://github.com/yaoyao-liu/minimal-light)
 
-## 👨🏻‍🎓 Education
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
-| _September, 2021 - present_ | **PhD student in Genetics**. Novosibirsk State University, Novosibirsk, Russia. _PhD thesis_: "Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae)". |
-| _September, 2019 - July 2021_ | **MS in Bioinformatics**. Saint-Petersburg State University, St. Petersburg, Russia. _MS thesis_: "Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes". |
-| _September, 2015 - July 2019_ | **BS in Biotechnologies**. Belgorod State National Research University, Belgorod, Russia. |
+## ✨ Key Features
 
-## 🏆 Work experience
+This site extends the [Minimal Light Theme](https://github.com/yaoyao-liu/minimal-light) with powerful new capabilities:
 
-1) _March, 2021 - present_ **Research programmer at the Genomic Diversity Research Center, ITMO University**. Conducts research on genomics of the genus Martes:
-- Quality control and filtering of sequencing data.
-- _De novo_ assembly and quality control.
-- Genome annotation:
-  - Whole genome alignments (pairwise and multiple) and coverage statistics.
-  - Calculating the coordinates of the pseudoautosomal region (custom algorithm was developed).
-  - _De novo_ assembly and annotation of genome repeats.
-  - Protein-coding and non-coding genes annotation.
-- Calling and filtering of genetic variants.
-- Visualization and analysis of heterozygosity.
-- Phylogenetic and evolutionary analysis.
-- Comparison and analysis of the results obtained.
-- Pipeline development based on Bash and Snakemake.
+### Enhancements Over Original Theme
 
-2) _July, 2021 - present_ **Teaching and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
+- **📊 Automatic Google Scholar Integration** - Daily automated updates of citations, h-index, and publication metrics
+- **📄 Automatic CV Compilation** - LaTeX CV automatically compiled to PDF and HTML on every update
+- **🏷️ Smart Publication Filtering** - Tag-based filtering system with dynamic search
+- **📑 Enhanced Publication Display** - Expandable abstracts, BibTeX, and author lists with smooth animations
+- **🎯 Interactive Tagging** - Click tags to filter publications by research area
 
-- Introduction to Linux for Bioinformatics.
-- Python and Linux for Bioinformatics and Biology.
-- Snakemake for Bioinformatics.
-- Analysis of NGS data.
+### Inherited from Minimal Light Theme
 
-3) _December, 2020 - January, 2024_ **ResOps and system administration experience on computing cluster MSU FBB**.
-- Assistance in writing commands and pipelines for bioinformatic analyses.
-- Software support for cluster users.
-- Creating a cluster [documentation](https://ma.fbb.msu.ru/faq/).
+- **🌓 Dark Mode Support** - Automatic theme switching based on system preferences
+- **📱 Fully Responsive** - Optimized for all devices from mobile to desktop
+- **⚡ Fast & Lightweight** - Static site generation with Jekyll
+- **🎨 Clean & Professional** - Minimalist academic design
 
-### 🛠 Skills
+## 📊 Google Scholar Integration
 
-| **OS**: | Linux, Windows |
-| **Shell**: | Bash. <br/> A good knowledge of the various shell tools, such as Awk, Grep, Sed |
-| **Programming**: | Python |
-| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn <br/>Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. <br/> - Parsing data from files or websites to Pandas dataframes. <br/> - Calculation of average, median, minimum and maximum values in datasets. <br/> - Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. <br/> - A little experience in ML (kNN, clustering, linear regression) |
-| **Statistics**: | R |
-| **R libraries**: | readxl, dplyr, car, cowplot, ggplot2 <br/> Experience analyzing various datasets, such as those containing information on different types of cancer and patient survival times. <br/> - Linear and multiple regression. <br/> - Description and significance testing of linear models. <br/> - Comparison of linear models. <br/> - Testing statistical hypotheses. |
-| **Workflow managers**: | Snakemake <br/> Experience in writing complex Snakemake pipelines including benchmarking, logging, task grouping and running on a compute cluster. There is experience in collaborative development. |
-| **Workload managers**: | Slurm, PBS. <br/> ResOps experience on computing clusters MSU FBB, ICG, IMCB and ITMO. <br/> - Running large-scale computational tasks using Slurm, PBS and Snakemake. <br/> - Installation and interaction with Conda environments. |
-| **Others**: | - SQL (creating a database, simple and medium complexity queries) <br/> - Circos (basic level, experience in visualization of mDNA and its coverage) <br/> - Tcl (basic level, experience in writing module files) |
+This website automatically fetches and displays your Google Scholar statistics without any manual intervention.
 
-## 📌 On The Side
+### How It Works
 
-_Snakemake pipelines:_
+```
+Daily (2 AM UTC) or on git push
+    ↓
+GitHub Actions triggered
+    ↓
+Python crawler fetches Google Scholar data
+    ↓
+Data pushed to google-scholar-stats branch
+    ↓
+Website JavaScript loads data in real-time
+    ↓
+Visitors see updated stats instantly
+```
 
-| **[BuscoClade](https://github.com/mahajrod/BuscoClade)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
-| **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
-| **[varcaller](https://github.com/BioHappyThreeFriends/varcaller)**. Pipeline for calling genetic variants correctly. Includes visualization of coverage and calculation of PAR coordinates. |
+### What's Displayed
 
-_Others:_
+- **Homepage Statistics**: Total citations, H-index, and last update time
+- **Per-Publication Citations**: Citation count displayed next to each paper
+- **Automatic Timestamps**: Shows when data was last refreshed
 
-| **[Biocrutch](https://github.com/tomarovsky/Biocrutch)**. A custom python package for bioinformatics research. My project contains bioinformatics scripts for genome and coverage statistics, repeats masking, determining coordinates of pseudoautosomal region, filtering 10XGenomics linked reads, PSMC date combine and others. |
-| **[Bashare](https://github.com/tomarovsky/bashare)**. The repository contains custom Bash scripts and pipelines for data processing. |
+### Technical Implementation
 
-## 📝 Grants
+Built with [`scholarly`](https://github.com/scholarly-python-package/scholarly) - a Python package that provides clean access to Google Scholar data.
 
-- Russian Foundation for Basic Research, grant № 20-04-00808 A, “Genomes and genetic diversity of mustelids (fam. Mustelidae) of Russia and South-Eastern Asia”.
+**Key Features:**
+- ✅ Proxy support to avoid rate limiting
+- ✅ Unbuffered output for real-time GitHub Actions logs  
+- ✅ Graceful fallback if Scholar is unavailable
+- ✅ 5-minute timeout protection
+- ✅ No manual deployment needed
 
-## 📝 Articles
+**Files:**
+- Crawler: `google_scholar_crawler/simple_crawler.py`
+- Workflow: `.github/workflows/update-scholar.yml`
+- Data Branch: `google-scholar-stats`
 
-- Kliver S, Houck ML, Perelman PL, Totikov A, Tomarovsky A, Dudchenko O, Omer AD, Colaric Z, Weisz D, Aiden EL, Chan S. Chromosome-length genome assembly and karyotype of the endangered black-footed ferret (Mustela nigripes). Journal of Heredity. 2023 May 30. DOI: 10.1093/jhered/esad035
-- Тотиков А.А., Томаровский А.А., Якупова А.Р., Графодатский А.С., Кливер С.Ф. Обзор методов реконструкции демографической истории популяций в природоохранной биологии // Экологическая генетика. 2023. Т. 21. № 1. С. 85–102. DOI: 10.17816/ecogen120078
-- Yakupova, A.; Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Logacheva, M.; Perelman, P.; Komissarov, A.; Dobrynin, P.; Krasheninnikova, K.; Tamazian, G.; Serdyukova, N.; Rayko, M.; Bulyonkova, T.; Grachev, M.; Cherkasov, N.; Pylev, V.; Varnavsky, A.; Peterfeld, V.; Penin, A.; Balanovska, E.; Lapidus, A.; O’Brien, S.; Graphodatsky, A.; Kepfli, K.-P.; Kliver, S. Chromosome length genome assembly of the Baikal seal (Pusa sibirica) reveals fewer answers than new mysteries. Genes. 2023; 14(3):619. DOI: 10.3390/genes14030619 
-- Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A.; Totikov, A.; Fickel, J.; Förster, D.W. Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology 2022. DOI: 10.1111/mec.16443
-- Totikov, A.; Tomarovsky, A.; Prokopov, D.; Yakupova, A.; Bulyonkova, T.; Derezanin, L.; Rasskazov, D.; Wolfsberger, W.; Koepfli, K.P.; Oleksyk, T.K. and Kliver, S. Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes 2021, 12, x. DOI: 10.3390/genes12091336 
+### Setup Instructions
 
+1. Set your Google Scholar ID in `_config.yml`:
+   ```yaml
+   google_scholar: https://scholar.google.com/citations?user=YOUR_ID_HERE
+   ```
 
-## 👨🏻‍💼 Conferences
+2. The workflow automatically extracts your ID and runs daily
 
-- Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Perelman, P.; Serdyokova, N.; Bulyonkova, T.; Koniaeva, K.; Abramov, A.; Graphodatsky, A.; Koepfli K.; Powell R.; Kliver S. Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. ISBN: 978-5-901158-32-6.
-- Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
+3. That's it! Your stats will update automatically every day.
 
-## 💬 Languages
+## 📄 Automatic CV Generation
 
-**Russian**: Native <br>
-**English**: Pre-Intermediate
-<br><br>
+Your CV is **automatically generated and maintained** from your website data using a sophisticated two-stage workflow - ensuring perfect synchronization between your website and CV!
+
+### How It Works
+
+```
+Push changes to _data/*.yml or index.md
+    ↓
+GitHub Actions triggered automatically
+    ↓
+Stage 1: Data Integration
+├─ Scrapes education from _data/education.yml
+├─ Scrapes publications from _data/publications.yml  
+├─ Scrapes honors from _data/honors.yml
+├─ Scrapes services from _data/service.yml
+├─ Scrapes research interests from index.md
+└─ Creates integrated _data/cv_integrated.yml
+    ↓
+Stage 2: Multi-Format Generation
+├─ Generates LaTeX source (assets/files/cv.tex)
+├─ Compiles to PDF (assets/files/cv.pdf)
+└─ Jekyll generates HTML webpage (/cv/)
+    ↓
+Auto-commit back to repository
+    ↓
+Live website updates automatically
+```
+
+### Three CV Formats
+
+1. **📄 PDF Download** - Professional LaTeX-compiled PDF at `/assets/files/cv.pdf`
+2. **🌐 HTML Webpage** - Interactive web version at `/cv/` with consistent styling
+3. **📝 LaTeX Source** - Editable source code at `/assets/files/cv.tex`
+
+### Data Sources
+
+The CV automatically pulls from:
+- **`_data/education.yml`**: Academic background and degrees
+- **`_data/publications.yml`**: All publications with proper LaTeX formatting
+- **`_data/honors.yml`**: Awards and honors with institutions and years
+- **`_data/service.yml`**: Professional service and reviewing activities
+- **`index.md`**: Research interests and bio information
+
+### Key Features
+
+- ✅ **Single Source of Truth**: Update once, propagates to all formats
+- ✅ **Automatic LaTeX Formatting**: Proper escaping and bibliography formatting
+- ✅ **Professional Typography**: LaTeX produces publication-quality PDFs
+- ✅ **Consistent Styling**: HTML version matches main website theme
+- ✅ **Real-time Updates**: Changes appear immediately after push
+- ✅ **Version Control**: All sources and outputs tracked in git
+- ✅ **No Manual Maintenance**: Set it once, works forever
+
+### Workflow Files
+
+- **`scripts/generate_cv.py`**: Two-stage Python generator
+  - Stage 1: Data scraping and integration
+  - Stage 2: LaTeX generation with proper formatting
+- **`.github/workflows/compile-cv.yml`**: GitHub Actions automation
+  - Triggers on changes to CV-related files
+  - Compiles LaTeX to PDF using `xu-cheng/latex-action`
+  - Auto-commits generated files back to repository
+- **`_data/cv_integrated.yml`**: Intermediate data file (auto-generated)
+- **`cv.md`**: Jekyll page template for HTML version
+
+### Manual Testing (Optional)
+
+To test the CV generation locally:
+
+```bash
+# Activate the Python environment
+conda activate scholar-crawler
+
+# Run Stage 1: Data integration
+python scripts/generate_cv.py --stage 1
+
+# Run Stage 2: LaTeX generation  
+python scripts/generate_cv.py --stage 2
+
+# Check outputs
+ls -la assets/files/cv.*
+```
+
+### Customization
+
+**LaTeX Template**: Modify the preamble and commands in `scripts/generate_cv.py`
+**HTML Styling**: Edit `_includes/cv.md` for webpage appearance
+**Data Structure**: Add new YAML files and update the scraping logic
+
+**Example: Adding a new section**
+1. Create `_data/your_section.yml`
+2. Add scraping logic to Stage 1 in `generate_cv.py`
+3. Add LaTeX formatting to Stage 2
+4. Update HTML template in `_includes/cv.md`
+
+## 🎨 Custom Features
+
+### Enhanced Publication System
+
+- **Tag-Based Filtering**: Filter publications by research area with animated transitions
+- **Rich Content Display**: 
+  - Expandable abstracts with smooth animations
+  - One-click BibTeX copying
+  - Author list with show more/less functionality
+- **Interactive Elements**:
+  - Clickable filter tags
+  - Year sections that hide when empty
+  - Hover effects and visual feedback
+  - Filter state persistence via localStorage
+
+### UI/UX Improvements
+
+- **Responsive Layout**: Optimized spacing and containers for all screen sizes
+- **Consistent Design**: Unified styling across light and dark modes
+- **Smooth Animations**: Slide-down effects for filters and expandable content
+- **Theme Colors**: Enhanced link and tag colors matching the overall theme
+- **Typography**: Choice between Serif and Sans Serif fonts
+
+## 🚀 Getting Started
+
+### Option 1: Using with GitHub Pages (Recommended)
+
+1. **Fork this repository** or [use it as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+
+2. **Rename** to `your-username.github.io`
+
+3. **Enable GitHub Pages**:
+   - Go to Settings → Pages
+   - Source: Deploy from a branch
+   - Branch: `main` → `/ (root)` → Save
+
+4. **Edit `_config.yml`** with your information:
+   ```yaml
+   title: Your Name
+   position: Ph.D. Student
+   affiliation: Your University
+   email: yourname (at) university.edu
+   google_scholar: https://scholar.google.com/citations?user=YOUR_ID
+   ```
+
+5. **Edit `index.md`** with your bio and content
+
+6. **Update `_data/publications.yml`** with your publications
+
+7. **Push to main** - Your site will be live at `https://your-username.github.io`!
+
+### Option 2: Using as a Remote Theme
+
+Add to your `_config.yml`:
+```yaml
+remote_theme: yaoyao-liu/minimal-light
+```
+
+Note: You'll need to copy files you want to customize to your own repository.
+
+### Option 3: Running Locally
+
+**Prerequisites**: Ruby and Jekyll ([installation guide](https://jekyllrb.com/docs/installation/))
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-username.github.io.git
+cd your-username.github.io
+
+# Install dependencies
+bundle install
+bundle add webrick
+
+# Serve locally
+bundle exec jekyll server
+
+# View at http://localhost:4000
+```
+
+## 📁 Project Structure
+
+```
+.
+├── _config.yml                      # Site configuration
+├── index.md                         # Homepage content
+├── cv.md                           # CV webpage template
+│
+├── _data/
+│   ├── publications.yml             # Publications database
+│   ├── education.yml               # Education and degrees
+│   ├── honors.yml                  # Awards and honors
+│   ├── service.yml                 # Professional service
+│   └── cv_integrated.yml           # Auto-generated CV data
+│
+├── _includes/
+│   ├── publications.md              # Publications section
+│   ├── selected-publications.md     # Featured publications
+│   ├── scholar-stats.md             # Google Scholar stats widget
+│   ├── services.md                  # Service & activities
+│   └── cv.md                       # CV HTML template
+│
+├── _layouts/
+│   └── homepage.html                # Main page template
+│
+├── _sass/
+│   ├── minimal-light.scss           # Main stylesheet
+│   └── minimal-light-no-dark-mode.scss
+│
+├── assets/
+│   ├── css/                         # Compiled CSS
+│   ├── img/                         # Images & avatars
+│   ├── files/                       # CV and documents
+│   │   ├── cv.pdf                   # Auto-generated CV PDF
+│   │   └── cv.tex                   # Auto-generated LaTeX source
+│   └── js/                          # JavaScript
+│
+├── scripts/
+│   ├── generate_cv.py               # Two-stage CV generator
+│   └── requirements.txt             # Python dependencies
+│
+├── google_scholar_crawler/
+│   ├── simple_crawler.py            # Main crawler script
+│   ├── requirements.txt             # Python dependencies
+│   └── results/                     # Cached data
+│
+└── .github/
+    └── workflows/
+        ├── update-scholar.yml       # Scholar stats automation
+        └── compile-cv.yml           # CV generation automation
+```
+
+## ⚙️ Configuration
+
+### Basic Information
+
+Edit `_config.yml`:
+
+```yaml
+# Basic Information 
+title: Your Name
+position: Ph.D. Student
+affiliation: Your University
+email: yourname (at) example.edu
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=YOUR_ID
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/username
+linkedin: https://www.linkedin.com/in/username/
+twitter: https://twitter.com/username
+
+# Images
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Options
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"  # or "Sans Serif"
+```
+
+### Adding Publications
+
+Edit `_data/publications.yml`:
+
+```yaml
+- title: "Your Paper Title"
+  authors: "Author 1, <strong>Your Name</strong>, Author 3"
+  conference_short: "ICML"
+  conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2024"
+  pdf: ./assets/papers/paper.pdf
+  code: https://github.com/username/project
+  page: https://project-page.com
+  bibtex: ./assets/bibs/paper.txt
+  image: ./assets/img/paper-preview.png
+  notes: Oral Presentation
+  tags:
+    - Machine Learning
+    - Computer Vision
+```
+
+### Styling
+
+- **Custom CSS**: Edit `_sass/minimal-light.scss`
+- **Layout Changes**: Edit `_layouts/homepage.html`
+- **Color Scheme**: Modify CSS variables in the SCSS file
+
+## 🛠️ Advanced Customization
+
+### Google Scholar Crawler Setup
+
+If you want to modify the crawler behavior:
+
+1. **Local Testing**:
+   ```bash
+   cd google_scholar_crawler
+   conda create -n scholar-crawler python=3.9
+   conda activate scholar-crawler
+   pip install -r requirements.txt
+   GOOGLE_SCHOLAR_ID=your_id python simple_crawler.py
+   ```
+
+2. **Modify Crawler** (`simple_crawler.py`):
+   - Add more metrics
+   - Change update frequency
+   - Customize data format
+
+3. **Update Workflow** (`.github/workflows/update-scholar.yml`):
+   - Change schedule (default: daily at 2 AM UTC)
+   - Modify timeout settings
+   - Add notifications
+
+### Disabling Features
+
+**Disable Dark Mode**:
+```yaml
+auto_dark_mode: false
+```
+
+**Disable Google Scholar Stats**:
+Remove or comment out the `loadScholarStats()` call in `_layouts/homepage.html`
+
+**Disable Publication Tags**:
+Remove the tags section from publications in `_data/publications.yml`
+
+## 📝 Content Management
+
+### Writing Content
+
+Both Markdown and HTML are supported in:
+- `index.md` - Your main homepage content
+- `_includes/*.md` - Section includes
+- `_data/publications.yml` - Publication metadata
+
+### Including Files
+
+In `index.md`, you can include sections:
+
+```markdown
+{% include_relative _includes/publications.md %}
+{% include_relative _includes/services.md %}
+```
+
+Remove these lines if you don't need those sections.
+
+## 🔧 Troubleshooting
+
+### Google Scholar Stats Not Showing
+
+1. Check that your Google Scholar ID is correct in `_config.yml`
+2. View the GitHub Actions workflow run logs
+3. Check if the `google-scholar-stats` branch exists
+4. Verify the data files exist in that branch
+
+### Crawler Timeout
+
+If the crawler times out:
+- Increase timeout in `.github/workflows/update-scholar.yml`
+- The workflow will retry on the next scheduled run
+- Data will fallback to previous values
+
+### Local Development
+
+If `bundle exec jekyll server` fails:
+```bash
+bundle update
+bundle add webrick
+```
+
+## 📄 License
+
+This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
+
+## 🙏 Acknowledgements
+
+**This website is built on top of the [Minimal Light Theme](https://github.com/yaoyao-liu/minimal-light) created by [Yaoyao Liu](https://www.yaoyaoliu.com/).**
+
+### Additional Credits
+
+- [scholarly](https://github.com/scholarly-python-package/scholarly) - Python package for Google Scholar data access
+- [pages-themes/minimal](https://github.com/pages-themes/minimal) - Original minimal theme
+- [orderedlist/minimal](https://github.com/orderedlist/minimal) - Minimal theme inspiration
+- [al-folio](https://github.com/alshedivat/al-folio) - Academic Jekyll theme inspiration
+
+## 📮 Contact
+
+For questions or issues, please [open an issue](https://github.com/SizhuangHe/sizhuanghe.github.io/issues) or visit my website at [sizhuang.org](https://sizhuang.org/).
+
+---
+
+**Other Languages:** [简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)
