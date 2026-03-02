@@ -40,7 +40,7 @@ cd google_scholar_crawler
 conda create -n scholar-crawler python=3.9
 conda activate scholar-crawler
 pip install -r requirements.txt
-GOOGLE_SCHOLAR_ID=5biMMmIAAAAJ python simple_crawler.py
+GOOGLE_SCHOLAR_ID=2hnNX4sAAAAJ python simple_crawler.py
 ```
 
 ## Architecture Overview
