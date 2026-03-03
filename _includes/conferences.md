@@ -3,15 +3,15 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.conferences.main %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.journal_short %} 
-    <abbr class="badge">{{ link.journal_short }}</abbr>
+    {% if link.conference_short %} 
+    <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
     {% endif %}
   </div>
@@ -24,6 +24,9 @@
     <div class="links">
       {% if link.doi %} 
       <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      {% endif %}
+      {% if link.isbn %} 
+      <a href="{{ link.isbn }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ISBN</a>
       {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
