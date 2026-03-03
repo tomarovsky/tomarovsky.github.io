@@ -1,90 +1,187 @@
-# Andrey Tomarovsky
+# The Minimal Light Theme
 
-_Software enthusiast in bioinformatics based in St. Petersburg, Russia_ <br>
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/homepage?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
-📧[Email](mailto:andrey.tomarovsky@gmail.com) / 💬[Telegram](https://t.me/atomarovsky) / 💬[Facebook](https://facebook.com/andrey.tomorovsky) / 📜[Google Schular](https://scholar.google.com/citations?user=2hnNX4sAAAAJ)
+\[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
+ 
+*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+<br>
+*Feel free to use and share the source code anywhere you like.*
 
-📝[PDF CV Download](https://github.com/tomarovsky/tomarovsky.github.io/raw/master/CV.pdf)
+An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[link](https://github.com/Xiao-Chenguang/minimal-light)]
 
-## 👨🏻‍🎓 Education
+**The latest version of my homepage is available here: <br><https://github.com/yaoyao-liu/homepage>**
 
-| _September, 2021 - present_ | **PhD student in Genetics**. Novosibirsk State University, Novosibirsk, Russia. _PhD thesis_: "Obtaining genomic assemblies and phylogenetic analysis of members of the genus Martes (fam. Mustelidae)". |
-| _September, 2019 - July 2021_ | **MS in Bioinformatics**. Saint-Petersburg State University, St. Petersburg, Russia. _MS thesis_: "Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes". |
-| _September, 2015 - July 2019_ | **BS in Biotechnologies**. Belgorod State National Research University, Belgorod, Russia. |
+## Features
 
-## 🏆 Work experience
+- Simple and elegant personal homepage theme
+- Jekyll theme, automatically deployed by GitHub Pages
+- Basic search engine optimization
+- Mobile friendly
+- Supporting Markdown 
+- Supporting dark mode
 
-1) _March, 2021 - present_ **Research programmer at the Genomic Diversity Research Center, ITMO University**. Conducts research on genomics of the genus Martes:
-- Quality control and filtering of sequencing data.
-- _De novo_ assembly and quality control.
-- Genome annotation:
-  - Whole genome alignments (pairwise and multiple) and coverage statistics.
-  - Calculating the coordinates of the pseudoautosomal region (custom algorithm was developed).
-  - _De novo_ assembly and annotation of genome repeats.
-  - Protein-coding and non-coding genes annotation.
-- Calling and filtering of genetic variants.
-- Visualization and analysis of heterozygosity.
-- Phylogenetic and evolutionary analysis.
-- Comparison and analysis of the results obtained.
-- Pipeline development based on Bash and Snakemake.
+## Project Architecture
 
-2) _July, 2021 - present_ **Teaching and software support for [Blastim](https://agency.blastim.ru/educenter) courses**:
+```
+.
+├── _data                    
+|   └── publications.yml                      # the YAML file for publications
+├── _includes                    
+|   ├── publications.md                       # the Markdown file for publications
+|   └── services.md                           # the Markdown file for services
+├── _layouts                  
+|   └── homepage.html                         #  the html template for the homepage 
+├── _sass
+|   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
+|   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
+├── assets                                    #  some files
+├── html_source_file                          #  compiled HTML files
+├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
+├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
+├── Gemfile                                   #  a RubyGems related file
+├── LICENSE                                   #  the license file
+├── README.md                                 #  the readme file (English)
+├── README_de.md                              #  the readme file (German)
+├── README_zh_Hans.md                         #  the readme file (Simplified Chinese)
+├── README_zh_Hant.md                         #  the readme file (Traditional Chinese)
+├── _config.yml                               #  the Jekyll configuration file, including some options of the page  
+└── index.md                                  #  the content of the index page, using Markdown
+```
 
-- Introduction to Linux for Bioinformatics.
-- Python and Linux for Bioinformatics and Biology.
-- Snakemake for Bioinformatics.
-- Analysis of NGS data.
+## Getting Started
 
-3) _December, 2020 - January, 2024_ **ResOps and system administration experience on computing cluster MSU FBB**.
-- Assistance in writing commands and pipelines for bioinformatic analyses.
-- Software support for cluster users.
-- Creating a cluster [documentation](https://ma.fbb.msu.ru/faq/).
+This template can be used in the following two ways: 
+- **Using with the GitHub Pages Service.** GitHub will provide you with a server to generate and host web pages.
+- **Using locally with Jekyll.** You may install Jekyll on your own computer and generate static web pages (i.e., HTML files) with this template. After that, you may upload the HTML files to your server.
 
-### 🛠 Skills
-
-| **OS**: | Linux, Windows |
-| **Shell**: | Bash. <br/> A good knowledge of the various shell tools, such as Awk, Grep, Sed |
-| **Programming**: | Python |
-| **Python libraries**: | Biopython, Matplotlib, Numpy, Pandas, Scikit-learn <br/>Experience in writing various scripts and data visualizations in Jupyter Notebook and individual Python packages. <br/> - Parsing data from files or websites to Pandas dataframes. <br/> - Calculation of average, median, minimum and maximum values in datasets. <br/> - Visualization of results using Matplotlib in the form of plots, histograms, Venn diagrams. <br/> - A little experience in ML (kNN, clustering, linear regression) |
-| **Statistics**: | R |
-| **R libraries**: | readxl, dplyr, car, cowplot, ggplot2 <br/> Experience analyzing various datasets, such as those containing information on different types of cancer and patient survival times. <br/> - Linear and multiple regression. <br/> - Description and significance testing of linear models. <br/> - Comparison of linear models. <br/> - Testing statistical hypotheses. |
-| **Workflow managers**: | Snakemake <br/> Experience in writing complex Snakemake pipelines including benchmarking, logging, task grouping and running on a compute cluster. There is experience in collaborative development. |
-| **Workload managers**: | Slurm, PBS. <br/> ResOps experience on computing clusters MSU FBB, ICG, IMCB and ITMO. <br/> - Running large-scale computational tasks using Slurm, PBS and Snakemake. <br/> - Installation and interaction with Conda environments. |
-| **Others**: | - SQL (creating a database, simple and medium complexity queries) <br/> - Circos (basic level, experience in visualization of mDNA and its coverage) <br/> - Tcl (basic level, experience in writing module files) |
-
-## 📌 On The Side
-
-_Snakemake pipelines:_
-
-| **[BuscoClade](https://github.com/mahajrod/BuscoClade)**. Pipeline to construct species phylogenies using universal single-copy orthologs BUSCOs. |
-| **[ITSpipe](https://github.com/tomarovsky/ITSpipe)**. Pipeline for the analysis of ITS sequences from the ribosomal cluster. Coverage visualization using Matplotlib and variant calling using Gatk, Pisces, and Bcftool is performed. |
-| **[varcaller](https://github.com/BioHappyThreeFriends/varcaller)**. Pipeline for calling genetic variants correctly. Includes visualization of coverage and calculation of PAR coordinates. |
-
-_Others:_
-
-| **[Biocrutch](https://github.com/tomarovsky/Biocrutch)**. A custom python package for bioinformatics research. My project contains bioinformatics scripts for genome and coverage statistics, repeats masking, determining coordinates of pseudoautosomal region, filtering 10XGenomics linked reads, PSMC date combine and others. |
-| **[Bashare](https://github.com/tomarovsky/bashare)**. The repository contains custom Bash scripts and pipelines for data processing. |
-
-## 📝 Grants
-
-- Russian Foundation for Basic Research, grant № 20-04-00808 A, “Genomes and genetic diversity of mustelids (fam. Mustelidae) of Russia and South-Eastern Asia”.
-
-## 📝 Articles
-
-- Kliver S, Houck ML, Perelman PL, Totikov A, Tomarovsky A, Dudchenko O, Omer AD, Colaric Z, Weisz D, Aiden EL, Chan S. Chromosome-length genome assembly and karyotype of the endangered black-footed ferret (Mustela nigripes). Journal of Heredity. 2023 May 30. DOI: 10.1093/jhered/esad035
-- Тотиков А.А., Томаровский А.А., Якупова А.Р., Графодатский А.С., Кливер С.Ф. Обзор методов реконструкции демографической истории популяций в природоохранной биологии // Экологическая генетика. 2023. Т. 21. № 1. С. 85–102. DOI: 10.17816/ecogen120078
-- Yakupova, A.; Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Logacheva, M.; Perelman, P.; Komissarov, A.; Dobrynin, P.; Krasheninnikova, K.; Tamazian, G.; Serdyukova, N.; Rayko, M.; Bulyonkova, T.; Grachev, M.; Cherkasov, N.; Pylev, V.; Varnavsky, A.; Peterfeld, V.; Penin, A.; Balanovska, E.; Lapidus, A.; O’Brien, S.; Graphodatsky, A.; Kepfli, K.-P.; Kliver, S. Chromosome length genome assembly of the Baikal seal (Pusa sibirica) reveals fewer answers than new mysteries. Genes. 2023; 14(3):619. DOI: 10.3390/genes14030619 
-- Derežanin, L.; Blažytė, A.; Dobrynin, P.; Duchêne, D.A.; Grau, J.H.; Hofreiter, M.; Jeon, S.; Kliver, S.; Koepfli, K.P.; Meneghini, D.; Preick, M.; Tomarovsky, A.; Totikov, A.; Fickel, J.; Förster, D.W. Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae. Molecular Ecology 2022. DOI: 10.1111/mec.16443
-- Totikov, A.; Tomarovsky, A.; Prokopov, D.; Yakupova, A.; Bulyonkova, T.; Derezanin, L.; Rasskazov, D.; Wolfsberger, W.; Koepfli, K.P.; Oleksyk, T.K. and Kliver, S. Chromosome-Level Genome Assemblies Expand Capabilities for Conservation Biology. Genes 2021, 12, x. DOI: 10.3390/genes12091336 
+The detailed instructions are available below.
 
 
-## 👨🏻‍💼 Conferences
+### Using with the GitHub Pages Service
 
-- Tomarovsky, A.; Totikov, A.; Beklemisheva, V.; Perelman, P.; Serdyokova, N.; Bulyonkova, T.; Koniaeva, K.; Abramov, A.; Graphodatsky, A.; Koepfli K.; Powell R.; Kliver S. Assembly and annotation of the sable (Martes zibellina) and pine marten (Martes martes) genomes. ISBN: 978-5-901158-32-6.
-- Totikov, A.; Tomarovsky, A.; Perelman, P.; Serdyokova, N.; Beklemisheva, V.; Bulyonkova, T.; Zub, K.; Panov, V.; Mukhacheva, A.; Abramov, A.; Koepfli, K.; Graphodatsky, A.; Melo-Ferreira, J.; Kliver, S. Reconstruction of the demographic history for three populations of the least weasel Mustela nivalis. ISBN: 978-5-901158-32-6.
+There are two ways to use this template on GitHub:
 
-## 💬 Languages
+#### Fork this repository
+- Fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
-**Russian**: Native <br>
-**English**: Pre-Intermediate
-<br><br>
+- Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+
+#### Using this repository as a remote theme
+To use this theme, add the following to your repository's `_config.yml`:
+
+```yaml
+remote_theme: yaoyao-liu/minimal-light
+```
+
+Please note that adding the above line will directly apply all the default settings in this repository to yours.
+
+If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
+
+### Using Locally with Jekyll
+
+First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The install instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
+
+Then, clone this repository:
+
+```bash
+git clone https://github.com/yaoyao-liu/minimal-light.git
+cd minimal-light
+```
+Install and run:
+
+```bash
+bundle install
+bundle add webrick
+bundle exec jekyll server
+```
+View the live page using `localhost`:
+<http://localhost:4000>. You can get the HTML files in `_site` folder.
+
+### Using the HTML version
+
+The compiled HTML files are available in the `html_source_file` folder. If you don't like Jekyll, you may directly edit and use the HTML version.
+
+## Customizing
+
+### Configuration variables
+
+The Minimal Light theme will respect the following variables, if set in your site's `_config.yml`:
+
+  ```yaml
+# Basic Information 
+title: Your Name
+position: Ph.D. Student
+affiliation: Your Affiliation
+email: yourname (at) example.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal light
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light-theme.yliu.me/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/
+cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/
+linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
+  ```
+### Edit `index.md`
+
+Create `index.md` and add your personal information. It supports **Markdown** and **HTML** syntax.
+
+### Edit included files
+
+There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
+https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
+
+If you hope to edit the publication list without changing the format, you may edit `_data/publications.yml`:
+https://github.com/yaoyao-liu/minimal-light/blob/77b1b3b31d4561091bcd739f37a2e1880e8b5ca5/_data/publications.yml#L3-L11
+
+
+### Stylesheet
+
+If you'd like to add your own custom styles, you may edit `_sass/minimal-light.scss`.
+
+### Layouts
+
+If you'd like to change the theme's HTML layout, you may edit `_layout/homepage.html`.
+
+## License
+
+This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
+
+## Acknowledgements
+
+Our project uses the source code from the following repositories:
+
+* [pages-themes/minimal](https://github.com/pages-themes/minimal)
+
+* [orderedlist/minimal](https://github.com/orderedlist/minimal)
+
+* [al-folio](https://github.com/alshedivat/al-folio)
