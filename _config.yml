@@ -1,8 +1,8 @@
 # Basic Information
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Andrey A. Tomarovsky
+position: Ph.D. in Genetics
+affiliation: Yale University
+email: andrey.tomarovsky@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,11 +12,12 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-telegram: https://t.me/atomarovsky
+google_scholar: https://scholar.google.com/citations?hl=en&user=2hnNX4sAAAAJ&view_op=list_works
+cv_link: /cv/
+publications_link: /publications/
+beyond_link: /beyond/
+github_link: https://github.com/tomarovsky
+telegram_link: https://t.me/atomarovsky
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
@@ -38,7 +39,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
