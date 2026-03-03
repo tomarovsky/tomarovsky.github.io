@@ -63,10 +63,6 @@ Software enthusiast in bioinformatics based in Novosibirsk, Russia
 | *2022 – 2023* | Russian Scientific Foundation, grant № 19-14-00034-P: “Autosomes, sexual and additive chromosomes of vertebrates. Organization and Evolution” |
 | *2020 – 2022* | Russian Foundation for Basic Research, grant № 20-04-00808 A: “Genomes and genetic diversity of mustelids (fam. Mustelidae) of Russia and South-Eastern Asia” |
 
-## 📝 Publications
-
 {% include_relative _includes/publications.md %}
-
-## 👨🏻‍💼 Conferences
 
 {% include_relative _includes/conferences.md %}
