@@ -1,37 +1,37 @@
 main:
     - title: "Chromosome-level genome assembly of the Least Weasel (<em>Mustela nivalis</em>)"
-      authors: Totikov, A., Tomarovsky, A., Perelman, P., Bulyonkova, T., Panov, V., DNA Zoo Consortium, Graphodatsky, A., Kliver, S.
+      authors: Totikov, A., <strong>Tomarovsky, A.</strong>, Perelman, P., Bulyonkova, T., Panov, V., DNA Zoo Consortium, Graphodatsky, A., Kliver, S.
       conference_short: BGRSSB-2024
       conference: 14th International Multiconference Bioinformatics of Genome Regulation and Structure / Systems Biology, August 5–10, 2024, Novosibirsk, Russia
       doi: https://doi.org/10.18699/bgrs2024-abstracts
 
     - title: "Whole-genome data confirm the presence of crossover in hybrids of sable (<em>M. zibellina</em>) and pine marten (<em>M. martes</em>)"
-      authors: Tomarovsky, A., Totikov, A., Perelman, P., Beklemisheva, V., Serdyukova, N., Bulyonkova, T., Sidorov, M., Mamaev, N., Okhlopkov, I., Mukhacheva, A., Koniaeva, K., Abramov, A., Graphodatsky, A., Kliver, S.
+      authors: <strong>Tomarovsky, A.</strong>, Totikov, A., Perelman, P., Beklemisheva, V., Serdyukova, N., Bulyonkova, T., Sidorov, M., Mamaev, N., Okhlopkov, I., Mukhacheva, A., Koniaeva, K., Abramov, A., Graphodatsky, A., Kliver, S.
       conference_short: BGRSSB-2024
       conference: 14th International Multiconference Bioinformatics of Genome Regulation and Structure / Systems Biology, August 5–10, 2024, Novosibirsk, Russia
       doi: https://doi.org/10.18699/bgrs2024-abstracts
 
     - title: "Assessment of heterozygosity levels of the <em>Mustela</em> species"
-      authors: Totikov, A., Tomarovsky, A., Perelman, P., Beklemisheva, V., Serdyokova, N., Bulyonkova, T., Panov, V., Mukhacheva, A., Abramov, A., Graphodatsky, A., Kliver, S.
+      authors: Totikov, A., <strong>Tomarovsky, A.</strong>, Perelman, P., Beklemisheva, V., Serdyokova, N., Bulyonkova, T., Panov, V., Mukhacheva, A., Abramov, A., Graphodatsky, A., Kliver, S.
       conference_short: Chromosome-2023
       conference: International Conference “Chromosome-2023”, Novosibirsk, Russia
       doi: https://doi.org/10.25205/978-5-4437-1514-8
 
     - title: "Assessment of heterozygosity levels of the sable (<em>Martes zibellina</em>), the pine marten (<em>Martes martes</em>), and their hybrids"
-      authors: Tomarovsky, A., Totikov, A., Perelman, P., Beklemisheva, V., Serdyokova, N., Bulyonkova, T., Sidorov, M., Mamaev, N., Okhlopkov, I., Mukhacheva, A., Koniaeva, K., Abramov, A., Graphodatsky, A., Kliver, S.
+      authors: <strong>Tomarovsky, A.</strong>, Totikov, A., Perelman, P., Beklemisheva, V., Serdyokova, N., Bulyonkova, T., Sidorov, M., Mamaev, N., Okhlopkov, I., Mukhacheva, A., Koniaeva, K., Abramov, A., Graphodatsky, A., Kliver, S.
       conference_short: Chromosome-2023
       conference: International Conference “Chromosome-2023”, Novosibirsk, Russia
       doi: https://doi.org/10.25205/978-5-4437-1514-8
 
     - title: "Reconstruction of the demographic history for three populations of the least weasel (<em>Mustela nivalis</em>)"
-      authors: Totikov, A., Tomarovsky, A., Perelman, P., Serdyokova, N., Beklemisheva, V., Bulyonkova, T., Zub, K., Panov, V., Mukhacheva, A., Abramov, A., Koepfli, K., Graphodatsky, A., Melo-Ferreira, J., Kliver, S.
+      authors: Totikov, A., <strong>Tomarovsky, A.</strong>, Perelman, P., Serdyokova, N., Beklemisheva, V., Bulyonkova, T., Zub, K., Panov, V., Mukhacheva, A., Abramov, A., Koepfli, K., Graphodatsky, A., Melo-Ferreira, J., Kliver, S.
       conference_short: MCCMB-2021
       conference: 10th Moscow Conference on Computational Molecular Biology (MCCMB-2021), July 30 – August 2, 2021, Moscow, Russia
       isbn: 978-5-901158-32-6
       page: 175
 
     - title: "Assembly and annotation of sable (<em>Martes zibellina</em>) and pine marten (<em>Martes martes</em>) genomes"
-      authors: Tomarovsky, A., Totikov, A., Beklemisheva, V., Perelman, P., Serdyokova, N., Bulyonkova, T., Koniaeva, K., Abramov, A., Graphodatsky, A., Koepfli, K., Powell, R., Kliver, S.
+      authors: <strong>Tomarovsky, A.</strong>, Totikov, A., Beklemisheva, V., Perelman, P., Serdyokova, N., Bulyonkova, T., Koniaeva, K., Abramov, A., Graphodatsky, A., Koepfli, K., Powell, R., Kliver, S.
       conference_short: MCCMB-2021
       conference: 10th Moscow Conference on Computational Molecular Biology (MCCMB-2021)
       isbn: 978-5-901158-32-6
