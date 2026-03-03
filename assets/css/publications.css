@@ -1,7 +1,3 @@
-.badge-arxiv {
-  background-color: rgb(236, 87, 87) !important;
-}
-
 .badge {
     display: inline-block;
     padding: 0.25em 0.4em;
@@ -30,11 +26,11 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
-.publications { margin-top: 0.1rem; }
+.publications { margin-top: 2rem; }
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
-.publications h2 { margin-bottom: 2rem; }
+.publications h2 { margin-bottom: 1rem; }
 
 .publications h2 span { font-size: 1.5rem; }
 
@@ -84,19 +80,3 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
-
-/* Year headers for publications */
-.year-header {
-  color: #888888;
-}
-
-/* Dark mode styles for year headers */
-html[data-theme="dark"] .year-header {
-  color: #ffffff;
-}
-
-@media (prefers-color-scheme: dark) {
-  .year-header {
-    color: #ffffff;
-  }
-}
