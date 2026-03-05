@@ -57,6 +57,9 @@ Software enthusiast in bioinformatics based in Novosibirsk, Russia
 - [Biocrutch](https://github.com/tomarovsky/Biocrutch) – Python package for genome data processing and plotting  
 - [Bashare](https://github.com/tomarovsky/bashare) – Bash scripts for NGS automation and batch HPC workflows  
 
+**Service development**:
+- [UlkaVPN](https://t.me/ulkavpn_bot). Co-founder and developer of a Xray-based VPN service (200+ active users). Designed and maintained backend infrastructure: server deployment, traffic routing, monitoring, and user management.
+
 ## 📝 Grants
 
 | *2022 – 2023* | Russian Scientific Foundation, grant № 22-24-01076: “Comparative genomics: analysis of evolutionary changes in syntenic chromosome blocks (Canidae and Cetartiodactyla) based on Hi-C maps” |
