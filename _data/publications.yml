@@ -23,12 +23,14 @@ main:
       authors: <strong>Tomarovsky, A.A.</strong>, Khan, R., Dudchenko, O., Beklemisheva, V.R., Perelman, P.L., Totikov, A.A., Serdyukova, N.A., Bulyonkova, T.M., Pobedintseva, M., Abramov, A.V., Weisz, D., Yakupova, A., Zhuk, A., Graphodatsky, A.S., Powell, R., Aiden, E., Koepfli, K.-P., Kliver, S
       journal: Journal of Heredity, 2025; esaf101
       doi: https://doi.org/10.1093/jhered/esaf101
+      pdf: assets/files/papers/esaf101.pdf
       notes: Q1, IF=2.5
 
     - title: "Chromosome length genome assembly of the stone marten (<em>Martes foina</em>, Mustelidae): a new view on one of the cornerstones in carnivore cytogenetics"
       authors: <strong>Tomarovsky, A.A.</strong>, Khan, R., Dudchenko, O., Totikov, A.A., Serdyukova, N.A., Weisz, D., Vorobieva, N.V., Bulyonkova, T., Abramov, A.V., Nie, W., Wang, J., Romanenko, S.A., Proskuryakova, A.A., Cherkasov, N., Ferguson-Smith, M.A., Yang, F., Balanovskaya, E., Gilbert, M.T.P., Graphodatsky, A.S., Aiden, E.L., Powell, R., Koepfli, K.-P., Perelman, P.L., Kliver, S.
       journal: Journal of Heredity, 2025; esaf001
       doi: https://doi.org/10.1093/jhered/esaf001
+      pdf: assets/files/papers/esaf001.pdf
       notes: Q1, IF=2.5
 
     - title: "Review of heterozygosity visualization approaches in the context of conservation research"
